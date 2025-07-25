@@ -1,0 +1,2001 @@
+C_ID,GENDER,AGE,INCOME,JOB,WORK_EXP,FAMILY,SPENDING,GRADE
+1,Male,19,15000,B,1,4,11.7,prestige
+2,Male,21,35000,D,3,3,24.3,royal blue
+3,Female,20,86000,D,1,1,1.8,general
+4,Female,23,59000,G,0,2,23.1,royal blue
+5,Female,31,38000,C,2,6,12.0,prestige
+6,Female,22,58000,A,0,2,22.8,royal blue
+7,Female,35,31000,B,1,3,1.8,general
+8,Female,23,84000,B,1,3,28.2,royal blue
+9,Male,64,97000,D,0,3,0.9,general
+10,Female,30,98000,A,1,4,21.6,royal blue
+11,Male,67,7000,D,1,3,4.2,star
+12,Female,35,93000,B,4,4,29.7,royal blue
+13,Female,58,80000,F,0,5,4.5,star
+14,Female,24,91000,G,1,1,23.1,royal blue
+15,Male,37,19000,E,0,1,3.9,star
+16,Male,22,51000,B,1,2,23.7,royal blue
+17,Female,35,29000,I,9,5,10.5,prestige
+18,Male,20,89000,B,1,6,19.8,prestige
+19,Male,52,20000,C,1,4,8.7,star
+20,Female,35,62000,A,0,1,29.4,royal blue
+21,Male,35,96000,I,12,1,10.5,prestige
+22,Male,25,4000,B,3,4,21.9,royal blue
+23,Female,46,42000,A,13,2,1.5,general
+24,Male,31,71000,A,5,2,21.9,royal blue
+25,Female,54,67000,F,1,3,4.2,star
+26,Male,29,52000,A,1,3,24.6,royal blue
+27,Female,45,68000,B,9,8,9.6,star
+28,Male,35,78000,A,1,3,18.3,prestige
+29,Female,40,18000,A,0,1,9.3,star
+30,Female,23,20000,A,5,4,26.1,royal blue
+31,Male,60,39000,A,0,3,1.2,general
+32,Female,21,34000,E,1,2,21.9,royal blue
+33,Male,53,59000,B,1,3,1.2,general
+34,Male,18,62000,I,9,7,27.6,royal blue
+35,Female,49,91000,G,1,2,4.2,star
+36,Female,21,95000,B,3,4,24.3,royal blue
+37,Female,42,14000,E,5,1,5.1,star
+38,Female,30,62000,B,1,5,21.9,royal blue
+39,Female,36,9000,A,8,2,7.8,star
+40,Female,20,69000,A,8,2,22.5,royal blue
+41,Female,65,25000,A,4,1,10.5,prestige
+42,Male,24,85000,B,0,2,27.6,royal blue
+43,Male,48,22000,A,14,3,10.8,prestige
+44,Female,31,33000,A,1,2,18.3,prestige
+45,Female,49,72000,D,8,1,8.4,star
+46,Female,24,3000,G,4,2,19.5,prestige
+47,Female,50,52000,A,0,4,16.5,prestige
+48,Female,27,71000,B,12,1,14.1,prestige
+49,Female,29,78000,B,0,4,12.6,prestige
+50,Female,31,25000,D,1,1,12.6,prestige
+51,Female,49,88000,A,1,2,15.6,prestige
+52,Male,33,97000,A,1,2,18.0,prestige
+53,Female,31,74000,A,1,1,16.2,prestige
+54,Male,59,68000,C,0,2,18.0,prestige
+55,Female,50,18000,H,1,1,13.5,prestige
+56,Male,47,95000,A,14,2,12.3,prestige
+57,Female,51,71000,B,9,4,15.0,prestige
+58,Male,69,8000,E,8,2,13.8,prestige
+59,Female,27,57000,A,1,3,15.3,prestige
+60,Male,53,89000,G,1,6,13.8,prestige
+61,Male,40,84000,A,0,2,16.8,prestige
+62,Male,19,50000,A,9,2,16.5,prestige
+63,Female,67,50000,G,0,3,15.6,prestige
+64,Female,54,48000,G,1,2,17.7,prestige
+65,Male,63,63000,G,7,2,15.3,prestige
+66,Male,18,9000,C,0,2,17.7,prestige
+67,Female,43,3000,E,0,2,15.0,prestige
+68,Female,68,82000,A,8,4,14.4,prestige
+69,Male,19,81000,A,0,4,17.7,prestige
+70,Female,32,97000,I,2,2,14.1,prestige
+71,Male,40,91000,B,8,2,16.5,prestige
+72,Female,47,9000,C,8,2,12.6,prestige
+73,Female,60,44000,A,0,5,14.7,prestige
+74,Female,60,10000,B,8,4,16.8,prestige
+75,Male,59,89000,A,0,4,14.1,prestige
+76,Male,26,49000,I,0,3,16.2,prestige
+77,Female,45,67000,E,0,2,15.9,prestige
+78,Male,40,99000,A,4,3,14.4,prestige
+79,Female,23,97000,D,2,2,15.6,prestige
+80,Female,49,98000,,1,1,12.6,prestige
+81,Male,57,52000,B,0,4,15.3,prestige
+82,Male,38,61000,B,6,3,16.5,prestige
+83,Male,67,120000,A,8,1,12.3,prestige
+84,Female,46,34000,C,8,4,13.2,prestige
+85,Female,21,24000,H,1,3,17.1,prestige
+86,Male,48,31000,B,7,5,13.8,prestige
+87,Female,55,11000,A,0,3,17.4,prestige
+88,Female,22,55000,A,5,2,16.5,prestige
+89,Female,34,76000,C,7,3,18.0,prestige
+90,Female,50,56000,E,0,2,13.8,prestige
+91,Female,68,46000,C,0,3,16.5,prestige
+92,Male,18,36000,A,1,4,12.3,prestige
+93,Male,48,88000,A,1,2,14.7,prestige
+94,Female,40,31000,C,1,2,12.0,prestige
+95,Female,32,24000,A,0,1,12.6,prestige
+96,Male,24,80000,A,10,1,15.6,prestige
+97,Female,47,2000,A,0,1,14.1,prestige
+98,Female,27,67000,A,0,2,15.0,prestige
+99,Male,48,58000,E,1,2,12.6,prestige
+100,Male,20,80000,D,3,3,14.7,prestige
+101,Female,23,65000,A,0,4,12.3,prestige
+102,Female,49,4000,F,1,7,14.4,prestige
+103,Male,67,98000,A,0,3,17.7,prestige
+104,Male,26,52000,F,0,5,16.5,prestige
+105,Male,49,86000,B,10,2,16.8,prestige
+106,Female,21,82000,E,1,2,12.6,prestige
+107,Female,66,43000,I,3,2,15.0,prestige
+108,Male,54,78000,G,1,1,13.8,prestige
+109,Male,68,13000,B,6,5,12.9,prestige
+110,Male,66,13000,B,9,3,14.4,prestige
+111,Male,65,34000,C,4,4,15.6,prestige
+112,Female,19,25000,A,0,1,16.2,prestige
+113,Female,38,71000,E,1,5,12.6,prestige
+114,Male,19,2000,A,1,1,13.8,prestige
+115,Female,18,97000,F,0,3,14.4,prestige
+116,Female,19,51000,F,8,4,15.0,prestige
+117,Female,63,9000,G,1,1,12.9,prestige
+118,Female,49,79000,A,0,2,17.7,prestige
+119,Female,51,84000,,2,7,12.9,prestige
+120,Female,50,87000,A,1,2,17.1,prestige
+121,Male,27,36000,F,0,3,16.8,prestige
+122,Female,38,50000,F,1,4,12.0,prestige
+123,Female,40,97000,D,9,4,17.4,prestige
+124,Male,39,6000,B,1,3,27.3,royal blue
+125,Female,23,12000,C,9,2,8.7,star
+126,Female,31,46000,H,1,2,23.1,royal blue
+127,Male,43,89000,D,0,7,10.5,prestige
+128,Male,40,4000,A,0,2,28.5,royal blue
+129,Male,59,38000,D,0,2,3.3,star
+130,Male,38,64000,C,8,5,22.5,royal blue
+131,Male,47,66000,F,9,5,2.7,general
+132,Male,39,26000,G,0,2,22.5,royal blue
+133,Female,25,41000,B,6,4,10.2,prestige
+134,Female,31,45000,A,5,1,21.3,royal blue
+135,Male,20,89000,D,1,2,1.5,general
+136,Female,29,92000,F,5,5,26.4,royal blue
+137,Female,44,76000,A,5,2,2.1,general
+138,Male,32,85000,A,3,4,21.9,royal blue
+139,Male,19,22000,H,8,4,3.0,star
+140,Female,35,15000,A,4,4,21.6,royal blue
+141,Female,57,32000,D,0,2,1.5,general
+142,Male,32,66000,A,0,5,27.9,royal blue
+143,Female,28,62000,E,5,3,12.0,prestige
+144,Female,32,85000,G,1,2,26.1,royal blue
+145,Male,25,71000,D,0,5,3.6,star
+146,Male,28,26000,H,8,5,29.1,royal blue
+147,Male,48,52000,D,9,2,10.8,prestige
+148,Female,32,38000,G,1,1,22.2,royal blue
+149,Female,34,51000,B,7,4,6.6,star
+150,Male,34,90000,A,6,3,27.0,royal blue
+151,Male,43,30000,G,0,9,5.1,star
+152,Male,39,41000,D,0,1,26.4,royal blue
+153,Female,44,17000,D,0,2,6.0,star
+154,Female,38,92000,A,2,2,22.8,royal blue
+155,Female,47,80000,B,0,4,4.8,star
+156,Female,27,10000,H,8,4,26.7,royal blue
+157,Male,37,16000,F,1,1,0.3,general
+158,Female,30,87000,A,3,4,23.4,royal blue
+159,Male,34,66000,G,1,2,0.3,general
+160,Female,30,86000,A,3,3,21.9,royal blue
+161,Female,56,9000,A,1,1,10.5,prestige
+162,Female,29,50000,B,1,5,24.9,royal blue
+163,Male,19,35000,F,0,5,1.5,general
+164,Female,31,58000,B,1,5,27.9,royal blue
+165,Male,50,47000,E,0,2,7.8,star
+166,Female,36,54000,A,5,3,22.5,royal blue
+167,Male,42,79000,I,9,3,6.0,star
+168,Female,33,83000,A,0,5,28.5,royal blue
+169,Female,36,57000,A,0,3,8.1,star
+170,Male,32,0,A,2,2,18.9,prestige
+171,Male,40,69000,A,3,5,3.9,star
+172,Male,28,4000,F,0,2,22.5,royal blue
+173,Male,36,79000,G,0,2,3.0,star
+174,Male,36,99000,A,5,2,27.6,royal blue
+175,Female,52,20000,G,0,2,3.9,star
+176,Female,30,28000,A,3,4,25.8,royal blue
+177,Male,58,29000,D,11,1,4.5,star
+178,Male,27,45000,B,2,6,20.7,royal blue
+179,Male,59,86000,B,4,3,4.2,star
+180,Male,35,42000,D,8,1,27.0,royal blue
+181,Female,37,59000,A,7,2,9.6,star
+182,Female,32,61000,C,7,5,25.8,royal blue
+183,Male,46,11000,A,7,1,4.5,star
+184,Female,29,66000,A,4,4,26.4,royal blue
+185,Female,41,39000,A,1,1,11.7,prestige
+186,Male,30,72000,A,6,2,29.1,royal blue
+187,Female,54,14000,G,1,2,7.2,star
+188,Male,28,44000,E,5,3,20.4,royal blue
+189,Female,41,76000,D,8,2,5.1,star
+190,Female,36,95000,A,4,2,25.5,royal blue
+191,Female,34,92000,A,5,3,6.9,star
+192,Female,32,98000,A,8,2,20.7,royal blue
+193,Male,33,96000,F,9,2,2.4,general
+194,Female,38,45000,A,10,4,27.3,royal blue
+195,Female,47,8000,A,7,2,4.8,star
+196,Female,35,46000,F,1,3,23.7,royal blue
+197,Female,45,78000,A,0,2,8.4,star
+198,Male,32,4000,A,1,5,22.2,royal blue
+199,Male,32,81000,F,1,2,5.4,star
+200,Male,30,33000,A,4,2,24.9,royal blue
+201,Female,21,40000,B,0,3,3.0,star
+202,Male,34,85000,B,9,3,4.8,star
+203,Female,16,60000,D,6,8,0.0,general
+204,Female,46,60000,B,4,2,11.7,prestige
+205,Female,62,63000,C,0,2,17.7,prestige
+206,Female,63,10000,B,8,3,15.6,prestige
+207,Female,19,55000,B,0,3,18.3,prestige
+208,Male,46,93000,A,2,1,3.6,star
+209,Female,48,15000,E,0,2,2.1,general
+210,Female,50,39000,D,9,4,9.9,star
+211,Female,1,57000,D,1,2,27.9,royal blue
+212,Female,0,22000,A,2,1,27.6,royal blue
+213,Male,56,12000,H,2,4,21.0,royal blue
+214,Male,49,50000,G,8,1,24.6,royal blue
+215,Male,48,95000,E,2,4,20.4,royal blue
+216,Female,46,66000,B,3,3,21.0,royal blue
+217,Male,49,20000,E,6,2,12.0,prestige
+218,Female,53,35000,E,8,2,29.7,royal blue
+219,Female,66,71000,F,9,2,10.2,prestige
+220,Female,59,76000,,9,1,18.3,prestige
+221,Female,39,84000,A,5,3,9.9,star
+222,Female,65,72000,D,4,2,15.3,prestige
+223,Male,43,33000,A,4,3,16.5,prestige
+224,Female,63,93000,B,1,5,11.1,prestige
+225,Female,40,83000,I,4,1,14.4,prestige
+226,Female,48,23000,D,1,1,2.4,general
+227,Female,25,40000,A,5,4,23.1,royal blue
+228,Male,46,89000,B,9,4,25.8,royal blue
+229,Male,0,33000,H,1,1,19.2,prestige
+230,Male,15,94000,B,7,2,9.0,star
+231,Female,6,93000,G,8,2,15.9,prestige
+232,Male,54,7000,B,0,4,8.4,star
+233,Female,67,18000,G,0,2,26.4,royal blue
+234,Female,48,3000,B,0,4,4.2,star
+235,Female,4,84000,A,9,1,16.2,prestige
+236,Female,29,62000,B,0,4,10.2,prestige
+237,Male,61,9000,B,1,5,28.8,royal blue
+238,Male,65,36000,,0,4,10.5,prestige
+239,Male,55,37000,G,1,4,22.2,royal blue
+240,Female,14,50000,A,1,2,3.3,star
+241,Male,62,83000,F,1,5,4.8,star
+242,Female,65,79000,A,0,3,5.1,star
+243,Female,54,40000,B,1,4,4.2,star
+244,Female,47,47000,A,0,6,17.4,prestige
+245,Female,53,4000,A,0,4,6.0,star
+246,Female,28,38000,C,7,2,22.5,royal blue
+247,Male,23,0,E,1,3,28.8,royal blue
+248,Female,32,7000,A,1,2,4.8,star
+249,Female,37,41000,A,1,2,0.6,general
+250,Female,59,65000,D,0,5,0.0,general
+251,Male,50,20000,D,1,3,27.9,royal blue
+252,Female,27,44000,E,8,1,19.5,prestige
+253,Female,48,3000,A,5,4,4.2,star
+254,Female,56,72000,G,7,3,3.9,star
+255,Female,46,27000,D,4,4,9.6,star
+256,Male,59,85000,G,4,2,14.7,prestige
+257,Male,12,38000,F,10,1,5.4,star
+258,Male,49,73000,I,6,7,28.8,royal blue
+259,Female,49,64000,A,2,3,19.2,prestige
+260,Male,26,26000,F,6,4,18.0,prestige
+261,Female,63,47000,A,2,3,4.8,star
+262,Female,52,35000,E,2,6,25.5,royal blue
+263,Female,32,31000,G,2,3,7.2,star
+264,Female,64,13000,D,3,4,11.4,prestige
+265,Female,37,79000,I,1,7,3.0,star
+266,Male,7,82000,C,2,2,11.7,prestige
+267,Female,40,28000,A,1,1,20.4,royal blue
+268,Female,48,36000,A,0,3,23.7,royal blue
+269,Female,34,8000,C,6,6,22.8,royal blue
+270,Female,52,88000,A,1,2,11.7,prestige
+271,Male,64,91000,C,0,4,10.8,prestige
+272,Female,1,12000,E,0,3,24.6,royal blue
+273,Female,66,1000,C,0,3,22.8,royal blue
+274,Female,18,143000,A,0,2,29.7,royal blue
+275,Female,37,18000,A,1,2,17.1,prestige
+276,Male,48,65000,G,1,2,26.7,royal blue
+277,Male,16,9000,F,7,4,26.4,royal blue
+278,Male,63,95000,A,1,1,6.3,star
+279,Female,44,78000,D,9,3,3.6,star
+280,Male,68,48000,B,3,3,21.9,royal blue
+281,Female,32,63000,F,1,4,26.1,royal blue
+282,Female,43,85000,H,1,2,18.9,prestige
+283,Female,52,43000,A,1,3,17.4,prestige
+284,Female,63,74000,A,1,2,6.0,star
+285,Female,33,67000,B,0,1,3.3,star
+286,Male,56,59000,A,0,1,12.0,prestige
+287,Female,55,140000,C,1,1,25.2,royal blue
+288,Female,43,31000,B,1,2,14.1,prestige
+289,Female,21,5000,H,0,1,27.3,royal blue
+290,Female,63,19000,D,1,3,17.4,prestige
+291,Male,9,27000,C,7,1,18.6,prestige
+292,Female,10,68000,E,6,3,24.0,royal blue
+293,Male,11,38000,A,8,8,19.8,prestige
+294,Female,48,50000,D,6,4,10.8,prestige
+295,Female,43,80000,C,2,2,21.9,royal blue
+296,Female,66,69000,F,9,3,12.9,prestige
+297,Female,49,31000,D,3,3,27.3,royal blue
+298,Male,62,87000,E,6,2,12.3,prestige
+299,Male,17,79000,A,1,3,4.8,star
+300,Male,32,32000,C,5,2,25.8,royal blue
+301,Male,55,153787,C,3,3,30.0,royal blue
+302,Male,31,95851,B,5,2,4.8,star
+303,Female,31,145015,B,6,3,21.9,royal blue
+304,Female,38,148539,B,5,2,2.1,general
+305,Female,60,117319,G,1,2,6.3,star
+306,Female,65,180243,H,6,2,7.8,star
+307,Female,63,165052,A,4,2,3.6,star
+308,Female,61,120487,E,0,2,4.2,star
+309,Male,26,112766,D,8,4,24.9,royal blue
+310,Female,17,156488,D,1,4,19.5,prestige
+311,Male,56,97562,F,5,6,4.5,star
+312,Female,12,77501,D,5,4,9.0,star
+313,Female,24,118302,G,5,1,30.0,royal blue
+314,Female,13,64277,F,9,4,2.7,general
+315,Male,12,53927,E,2,3,23.1,royal blue
+316,Male,42,93921,G,9,2,27.9,royal blue
+317,Female,54,132046,I,4,4,2.4,general
+318,Male,45,183217,A,7,2,27.3,royal blue
+319,Male,66,182937,H,8,1,13.2,prestige
+320,Female,27,68272,B,8,4,16.8,prestige
+321,Male,36,69841,D,10,2,6.3,star
+322,Male,5,69078,G,13,1,18.0,prestige
+323,Female,59,110667,B,2,4,30.0,royal blue
+324,Male,13,95469,E,6,1,28.2,royal blue
+325,Female,61,102861,A,4,1,12.0,prestige
+326,Male,16,133551,A,3,1,2.1,general
+327,Female,63,64589,D,7,1,27.0,royal blue
+328,Male,52,152755,D,4,2,11.7,prestige
+329,Female,37,92313,B,1,5,17.4,prestige
+330,Female,48,98922,A,2,3,0.6,general
+331,Male,24,165846,D,0,4,9.9,star
+332,Female,4,93713,D,3,4,18.6,prestige
+333,Male,54,137641,B,0,5,20.1,royal blue
+334,Male,0,173743,A,0,4,28.8,royal blue
+335,Female,67,116126,C,10,2,17.4,prestige
+336,Female,32,112246,B,8,3,9.0,star
+337,Female,39,69384,B,1,5,22.5,royal blue
+338,Female,68,76529,B,0,2,18.6,prestige
+339,Female,7,123804,E,14,1,8.4,star
+340,Female,46,68292,A,8,2,16.5,prestige
+341,Female,54,173185,A,3,1,29.7,royal blue
+342,Male,45,142034,C,1,4,24.6,royal blue
+343,Male,22,107941,A,0,1,18.3,prestige
+344,Female,60,149840,D,1,1,18.3,prestige
+345,Female,4,148431,B,1,8,29.7,royal blue
+346,Female,48,126599,G,0,3,25.2,royal blue
+347,Female,58,57180,B,9,1,6.6,star
+348,Female,69,184426,A,9,1,12.3,prestige
+349,Female,24,151085,H,2,5,11.7,prestige
+350,Female,58,166107,A,13,4,29.4,royal blue
+351,Female,62,67850,A,9,4,27.3,royal blue
+352,Male,69,173394,D,13,1,1.2,general
+353,Female,51,72303,G,7,1,29.4,royal blue
+354,Male,23,181760,B,14,3,10.5,prestige
+355,Female,13,146858,E,9,1,22.5,royal blue
+356,Male,22,172923,D,6,1,6.0,star
+357,Female,59,115811,I,11,4,26.1,royal blue
+358,Male,20,184324,H,13,5,15.3,prestige
+359,Female,42,67353,G,9,3,5.7,star
+360,Male,17,165999,B,9,3,21.3,royal blue
+361,Male,60,164914,A,8,3,5.4,star
+362,Male,69,63364,C,1,2,18.3,prestige
+363,Female,39,182352,D,4,3,21.9,royal blue
+364,Female,37,148544,C,1,2,16.8,prestige
+365,Male,46,62833,A,1,2,25.5,royal blue
+366,Male,65,120627,B,0,2,21.6,royal blue
+367,Female,60,130898,A,1,1,9.0,star
+368,Female,63,103130,F,12,3,22.2,royal blue
+369,Male,42,106681,B,9,5,4.5,star
+370,Female,36,87353,C,1,5,7.5,star
+371,Male,52,88046,A,8,1,18.3,prestige
+372,Female,42,98168,C,1,2,14.7,prestige
+373,Female,28,178265,G,2,1,1.5,general
+374,Female,48,167232,E,6,4,27.6,royal blue
+375,Male,55,140478,E,6,4,12.9,prestige
+376,Male,22,159296,A,8,1,24.9,royal blue
+377,Female,30,144043,E,1,1,23.4,royal blue
+378,Male,46,72594,A,1,2,19.2,prestige
+379,Female,52,180288,A,2,2,23.1,royal blue
+380,Female,43,165734,C,0,1,15.3,prestige
+381,Male,8,175407,A,5,1,0.6,general
+382,Male,60,70201,D,0,2,2.4,general
+383,Male,34,91503,A,0,6,7.8,star
+384,Female,10,184522,A,0,2,12.9,prestige
+385,Female,49,143560,A,1,3,24.9,royal blue
+386,Male,53,131574,A,1,2,29.1,royal blue
+387,Female,20,151124,A,15,3,5.4,star
+388,Female,25,67447,A,15,2,1.5,general
+389,Female,26,117454,B,16,2,2.4,general
+390,Female,18,86203,E,13,1,6.9,star
+391,Female,7,136231,A,7,1,3.0,star
+392,Male,1,89144,E,12,2,0.3,general
+393,Male,21,119116,A,17,4,9.0,star
+394,Female,56,163463,A,9,4,9.3,star
+395,Female,45,151696,A,15,1,24.6,royal blue
+396,Male,48,184736,G,13,1,15.6,prestige
+397,Female,57,70419,I,6,4,20.7,royal blue
+398,Female,8,119104,C,14,3,12.3,prestige
+399,Male,59,130950,F,5,3,8.4,star
+400,Male,13,140950,A,15,2,23.1,royal blue
+401,Female,55,82285,D,16,1,10.5,prestige
+402,Female,50,91389,B,11,7,27.6,royal blue
+403,Male,54,186359,E,13,2,28.5,royal blue
+404,Male,13,178989,E,14,3,13.8,prestige
+405,Male,49,166335,D,5,5,13.5,prestige
+406,Female,65,119889,A,17,6,3.3,star
+407,Female,51,66852,F,15,3,21.9,royal blue
+408,Male,18,103896,F,16,4,10.8,prestige
+409,Male,21,187761,B,2,3,26.1,royal blue
+410,Male,37,102717,B,7,4,27.9,royal blue
+411,Male,53,102647,C,0,2,24.9,royal blue
+412,Female,66,113585,G,0,4,9.3,star
+413,Female,65,86509,A,0,4,26.4,royal blue
+414,Male,50,59099,H,1,7,13.2,prestige
+415,Female,45,135088,G,1,5,1.5,general
+416,Female,57,110870,D,1,4,23.4,royal blue
+417,Female,56,187667,A,0,1,3.6,star
+418,Female,36,124614,A,8,5,7.5,star
+419,Female,48,166492,I,9,7,12.0,prestige
+420,Female,62,172758,C,1,2,20.7,royal blue
+421,Male,59,122430,B,1,1,5.7,star
+422,Female,56,183540,C,0,6,28.8,royal blue
+423,Female,35,96484,A,5,4,10.2,prestige
+424,Male,33,112587,A,1,4,21.3,royal blue
+425,Female,58,155672,C,7,7,21.3,royal blue
+426,Female,68,72847,A,1,2,27.9,royal blue
+427,Male,38,71897,C,2,3,9.6,star
+428,Male,31,158479,E,1,5,17.1,prestige
+429,Male,60,89251,C,1,1,1.2,general
+430,Male,28,179911,D,1,1,7.2,star
+431,Male,1,111558,B,7,4,25.5,royal blue
+432,Male,48,127615,F,10,7,23.4,royal blue
+433,Female,23,50076,A,3,5,9.6,star
+434,Female,25,77779,A,4,1,18.6,prestige
+435,Male,59,169999,D,5,5,11.4,prestige
+436,Female,7,106581,E,1,7,22.8,royal blue
+437,Female,24,78223,G,0,1,12.3,prestige
+438,Male,46,136259,,0,7,4.2,star
+439,Male,37,153399,C,1,6,27.9,royal blue
+440,Female,6,162858,A,0,1,27.3,royal blue
+441,Female,0,57373,,0,7,8.7,star
+442,Male,3,133602,A,1,1,14.1,prestige
+443,Female,65,66322,A,0,3,26.4,royal blue
+444,Female,0,68761,G,1,4,4.8,star
+445,Male,7,70749,A,13,3,25.8,royal blue
+446,Male,54,65874,A,7,6,26.1,royal blue
+447,Male,59,115996,D,15,1,7.2,star
+448,Female,58,67097,D,6,1,27.3,royal blue
+449,Female,12,108027,A,13,5,19.2,prestige
+450,Male,7,176349,B,8,2,24.0,royal blue
+451,Male,11,88452,B,8,6,12.0,prestige
+452,Male,44,128266,D,7,4,16.5,prestige
+453,Female,64,156777,B,7,2,6.0,star
+454,Female,48,123234,G,10,7,15.0,prestige
+455,Female,8,60790,A,1,5,11.4,prestige
+456,Female,15,181332,A,14,6,29.7,royal blue
+457,Male,1,187297,A,0,1,2.1,general
+458,Female,21,153885,A,6,6,25.8,royal blue
+459,Male,54,53500,H,3,4,13.2,prestige
+460,Female,5,69443,E,4,6,8.4,star
+461,Female,47,124072,G,0,7,16.8,prestige
+462,Female,66,135800,B,0,7,8.7,star
+463,Male,63,120597,A,2,4,28.8,royal blue
+464,Female,16,91358,C,1,4,3.3,star
+465,Male,56,53231,H,0,5,12.3,prestige
+466,Female,46,156330,D,1,2,9.3,star
+467,Male,0,186002,E,15,2,24.0,royal blue
+468,Female,40,111760,F,12,5,15.9,prestige
+469,Female,47,143906,A,4,3,3.6,star
+470,Male,13,182410,B,11,4,6.6,star
+471,Male,56,98463,I,10,5,13.8,prestige
+472,Male,61,93762,A,15,7,8.4,star
+473,Male,67,104582,B,8,2,15.0,prestige
+474,Male,20,130813,A,17,5,27.6,royal blue
+475,Female,11,59202,B,5,4,27.6,royal blue
+476,Female,28,79968,G,9,2,13.5,prestige
+477,Male,32,104824,A,0,7,12.6,prestige
+478,Male,52,188719,G,0,6,9.0,star
+479,Male,39,187536,B,3,6,19.8,prestige
+480,Male,7,134008,C,2,1,25.5,royal blue
+481,Female,13,176397,A,6,3,21.3,royal blue
+482,Female,34,154888,B,9,6,12.9,prestige
+483,Male,46,155622,B,0,2,24.3,royal blue
+484,Female,30,62330,B,1,1,18.0,prestige
+485,Female,69,112838,B,1,7,10.2,prestige
+486,Male,22,58283,I,2,4,17.7,prestige
+487,Female,60,77857,A,1,6,24.3,royal blue
+488,Male,66,125024,A,0,1,7.5,star
+489,Female,57,136242,A,9,1,10.2,prestige
+490,Female,60,81934,B,1,4,24.3,royal blue
+491,Female,59,130511,A,3,4,29.1,royal blue
+492,Female,54,144502,G,3,1,26.4,royal blue
+493,Male,60,63769,A,4,2,1.8,general
+494,Female,14,66760,A,0,4,6.0,star
+495,Female,34,135115,C,1,7,16.2,prestige
+496,Female,55,179877,B,12,4,5.1,star
+497,Female,53,93351,E,1,1,19.5,prestige
+498,Male,12,84547,I,3,3,28.8,royal blue
+499,Male,65,121725,,12,3,0.9,general
+500,Male,41,65723,A,6,7,27.3,royal blue
+501,Female,38,96794,B,6,3,28.8,royal blue
+502,Male,68,72352,B,8,5,18.3,prestige
+503,Female,4,53097,B,0,7,6.3,star
+504,Female,5,144831,A,1,3,5.1,star
+505,Female,3,183851,E,1,2,3.0,star
+506,Female,20,111896,F,1,3,27.0,royal blue
+507,Female,3,64824,F,1,1,9.0,star
+508,Male,36,88565,B,1,5,4.8,star
+509,Female,40,104974,A,1,1,18.9,prestige
+510,Female,17,167060,A,1,5,14.1,prestige
+511,Female,31,69018,A,6,1,5.1,star
+512,Female,48,174109,C,0,1,28.8,royal blue
+513,Male,28,62186,H,0,1,8.7,star
+514,Male,67,183783,B,9,3,21.0,royal blue
+515,Male,51,83771,A,1,2,0.3,general
+516,Female,37,148196,A,0,2,27.3,royal blue
+517,Male,55,131742,C,1,1,26.1,royal blue
+518,Female,48,59971,I,14,7,28.2,royal blue
+519,Female,13,88960,C,13,3,0.6,general
+520,Female,53,140107,B,1,5,11.4,prestige
+521,Female,41,161896,C,1,3,14.7,prestige
+522,Female,9,57272,D,1,1,18.0,prestige
+523,Male,20,119952,B,8,2,0.6,general
+524,Female,68,167197,E,1,5,18.9,prestige
+525,Female,44,186116,B,8,6,0.6,general
+526,Female,66,134677,B,15,5,17.7,prestige
+527,Female,58,180479,B,0,3,22.2,royal blue
+528,Male,67,112783,A,9,6,6.3,star
+529,Male,13,150258,E,0,3,5.1,star
+530,Male,48,115832,A,2,2,27.6,royal blue
+531,Female,47,104834,A,0,7,13.2,prestige
+532,Male,63,152571,E,14,5,19.8,prestige
+533,Female,11,162287,D,3,2,13.5,prestige
+534,Female,68,171761,E,1,6,17.7,prestige
+535,Female,57,77709,A,0,1,21.9,royal blue
+536,Female,22,95053,C,1,2,5.1,star
+537,Male,59,74820,E,1,2,9.9,star
+538,Male,57,152267,D,9,5,27.6,royal blue
+539,Male,61,71925,A,4,2,4.2,star
+540,Female,54,151340,A,1,7,28.5,royal blue
+541,Male,56,162921,F,0,4,15.3,prestige
+542,Female,26,52234,F,1,2,9.0,star
+543,Female,56,100271,A,1,5,26.1,royal blue
+544,Female,6,170266,A,3,2,6.9,star
+545,Female,33,88763,C,1,1,0.3,general
+546,Female,59,107359,,10,6,7.8,star
+547,Male,69,164781,D,0,2,24.9,royal blue
+548,Female,25,156016,A,2,1,25.5,royal blue
+549,Female,66,186882,C,1,7,12.0,prestige
+550,Female,35,99300,I,5,2,26.4,royal blue
+551,Male,16,58127,H,0,3,19.5,prestige
+552,Female,51,89211,E,1,7,3.6,star
+553,Female,7,148607,I,1,7,17.7,prestige
+554,Female,31,139592,H,1,1,18.6,prestige
+555,Female,16,172051,B,1,3,18.6,prestige
+556,Male,59,57033,A,0,4,29.7,royal blue
+557,Male,54,117612,D,0,6,18.9,prestige
+558,Male,40,185321,A,0,7,28.8,royal blue
+559,Female,17,186577,B,8,5,1.5,general
+560,Male,0,151298,A,0,6,26.7,royal blue
+561,Female,69,123925,A,1,7,15.6,prestige
+562,Female,17,169496,G,11,6,3.6,star
+563,Female,0,142892,C,8,1,7.5,star
+564,Female,34,58979,C,9,5,0.9,general
+565,Female,51,141416,B,15,1,30.0,royal blue
+566,Male,54,104854,B,1,7,20.1,royal blue
+567,Female,19,180331,A,17,5,4.2,star
+568,Female,69,172896,D,0,3,3.9,star
+569,Female,2,101451,B,4,3,24.6,royal blue
+570,Female,61,189974,D,8,1,11.1,prestige
+571,Male,65,90084,A,1,6,19.5,prestige
+572,Female,47,112247,F,4,5,7.2,star
+573,Female,61,181775,A,4,5,18.3,prestige
+574,Female,64,59088,A,1,3,9.3,star
+575,Female,61,60856,A,1,6,6.9,star
+576,Male,32,149900,A,6,3,10.2,prestige
+577,Male,15,142776,D,8,5,29.4,royal blue
+578,Male,22,162598,A,8,3,25.2,royal blue
+579,Female,37,146195,B,4,4,26.7,royal blue
+580,Male,53,135268,G,4,5,15.9,prestige
+581,Female,59,136037,H,5,1,0.3,general
+582,Female,33,111191,A,9,4,20.1,royal blue
+583,Female,13,144111,C,12,5,18.6,prestige
+584,Female,41,177359,E,6,2,16.8,prestige
+585,Female,10,112818,H,15,7,25.5,royal blue
+586,Male,49,53509,A,5,4,29.4,royal blue
+587,Female,9,168269,F,10,2,22.5,royal blue
+588,Female,53,86766,G,16,3,0.6,general
+589,Female,63,52661,B,12,5,7.5,star
+590,Female,46,148520,B,11,5,4.2,star
+591,Male,42,149936,A,15,3,15.6,prestige
+592,Female,43,102296,C,7,5,9.3,star
+593,Male,45,178416,F,10,7,4.8,star
+594,Female,49,83788,E,15,1,12.3,prestige
+595,Female,66,184771,D,8,5,23.1,royal blue
+596,Female,52,70302,F,14,3,26.4,royal blue
+597,Female,15,58639,C,5,7,15.3,prestige
+598,Male,61,97879,C,15,7,12.0,prestige
+599,Male,22,64707,C,7,3,8.7,star
+600,Male,62,71795,B,8,1,26.1,royal blue
+601,Male,41,76567,E,16,1,25.5,royal blue
+602,Male,61,126370,,11,4,6.0,star
+603,Female,41,154007,A,7,7,9.6,star
+604,Female,61,69720,G,17,6,23.4,royal blue
+605,Female,64,85265,F,7,6,20.4,royal blue
+606,Female,3,155864,B,13,3,9.3,star
+607,Female,15,99421,A,8,7,21.6,royal blue
+608,Female,66,145457,F,2,1,17.1,prestige
+609,Male,12,118041,A,9,2,23.1,royal blue
+610,Female,23,73759,E,0,7,24.9,royal blue
+611,Male,64,90082,A,5,7,5.1,star
+612,Female,7,74928,A,0,6,3.6,star
+613,Female,44,101352,G,0,5,10.8,prestige
+614,Female,52,93947,B,9,2,24.3,royal blue
+615,Male,39,134629,D,1,6,6.9,star
+616,Male,42,101858,B,8,6,21.0,royal blue
+617,Female,55,165501,A,10,4,14.1,prestige
+618,Male,29,135931,G,5,1,22.2,royal blue
+619,Male,38,103356,H,1,6,6.0,star
+620,Female,44,75195,A,1,3,23.7,royal blue
+621,Male,58,123083,C,6,5,13.2,prestige
+622,Male,47,73884,B,1,2,9.0,star
+623,Female,56,91180,C,1,7,18.3,prestige
+624,Male,49,86235,A,0,2,15.6,prestige
+625,Female,67,96400,E,1,7,1.2,general
+626,Male,48,83599,B,1,6,3.6,star
+627,Female,61,82535,B,0,1,15.0,prestige
+628,Male,35,92227,G,0,5,2.4,general
+629,Female,43,150444,A,13,4,8.1,star
+630,Female,37,149095,G,1,2,24.9,royal blue
+631,Male,63,113605,A,3,3,12.6,prestige
+632,Female,16,93854,B,0,7,24.6,royal blue
+633,Male,32,118280,A,0,5,27.6,royal blue
+634,Male,61,94576,A,0,1,27.0,royal blue
+635,Female,33,129257,F,6,3,21.0,royal blue
+636,Female,57,70373,B,2,6,3.0,star
+637,Female,43,77600,B,0,1,19.8,prestige
+638,Female,26,113707,C,0,5,29.1,royal blue
+639,Female,59,189672,E,0,7,2.4,general
+640,Female,61,143180,A,0,5,17.4,prestige
+641,Female,59,174890,H,3,4,4.2,star
+642,Male,66,121377,,7,7,5.7,star
+643,Male,26,154857,B,0,7,3.9,star
+644,Female,67,160945,B,0,5,15.3,prestige
+645,Female,55,119557,A,0,2,10.5,prestige
+646,Female,46,187141,E,0,7,9.9,star
+647,Female,57,97468,A,0,1,6.6,star
+648,Female,47,160351,G,8,5,23.1,royal blue
+649,Female,66,178627,B,1,2,28.2,royal blue
+650,Female,49,170188,G,1,6,24.0,royal blue
+651,Female,36,166007,E,1,4,12.0,prestige
+652,Male,44,91794,C,0,7,24.9,royal blue
+653,Female,16,189072,A,6,3,25.8,royal blue
+654,Male,27,152717,F,1,6,4.5,star
+655,Female,3,158549,F,0,3,29.4,royal blue
+656,Male,31,134263,H,1,3,28.2,royal blue
+657,Female,30,148236,F,1,1,8.4,star
+658,Male,64,171677,A,0,6,24.3,royal blue
+659,Female,31,189446,A,1,6,11.4,prestige
+660,Male,49,106633,A,0,3,15.9,prestige
+661,Male,49,81084,F,6,5,14.4,prestige
+662,Male,53,148759,E,7,7,15.6,prestige
+663,Female,3,117638,B,2,7,28.5,royal blue
+664,Female,61,159537,E,4,1,11.1,prestige
+665,Male,26,79526,H,9,7,1.8,general
+666,Male,28,101414,,8,1,19.2,prestige
+667,Female,62,109519,C,1,4,21.6,royal blue
+668,Female,59,156880,A,0,7,21.0,royal blue
+669,Male,15,157278,A,0,6,17.4,prestige
+670,Female,23,144916,D,1,7,25.2,royal blue
+671,Male,54,59163,H,3,3,30.0,royal blue
+672,Female,63,93991,A,1,3,14.7,prestige
+673,Female,65,58318,E,1,1,13.5,prestige
+674,Female,13,180786,G,1,5,26.4,royal blue
+675,Male,41,84622,E,0,6,13.5,prestige
+676,Male,1,92674,A,8,4,17.7,prestige
+677,Female,57,87553,A,1,1,28.2,royal blue
+678,Male,14,74174,C,1,2,23.7,royal blue
+679,Female,47,180831,B,1,2,9.9,star
+680,Female,59,137397,E,1,7,9.9,star
+681,Male,17,96154,A,1,4,30.0,royal blue
+682,Male,56,172477,C,1,3,20.7,royal blue
+683,Male,42,59954,F,4,4,11.1,prestige
+684,Female,29,112240,C,0,4,28.5,royal blue
+685,Female,54,145679,A,0,2,10.5,prestige
+686,Male,66,136265,A,12,5,14.7,prestige
+687,Female,58,74869,B,0,3,3.6,star
+688,Female,52,109425,D,0,1,13.8,prestige
+689,Female,3,126015,B,0,1,17.1,prestige
+690,Female,13,156951,B,4,7,19.8,prestige
+691,Female,3,127172,B,1,2,20.4,royal blue
+692,Male,59,113834,E,0,3,6.6,star
+693,Male,53,132005,C,0,5,0.6,general
+694,Female,50,171323,G,10,4,23.4,royal blue
+695,Female,44,92355,C,1,4,26.1,royal blue
+696,Male,42,60982,B,0,5,0.9,general
+697,Female,61,51742,A,8,3,9.9,star
+698,Female,31,138612,F,9,2,21.3,royal blue
+699,Male,8,158123,A,1,1,25.2,royal blue
+700,Male,64,164675,F,0,5,19.5,prestige
+701,Female,41,172882,B,8,7,8.1,star
+702,Female,62,70119,A,0,1,27.9,royal blue
+703,Male,41,113998,B,7,7,7.8,star
+704,Male,22,114011,,5,7,12.0,prestige
+705,Male,5,57265,C,7,7,26.7,royal blue
+706,Female,38,130597,A,6,1,0.6,general
+707,Female,58,121597,D,0,5,2.1,general
+708,Male,56,103210,A,6,6,30.0,royal blue
+709,Male,47,66308,F,0,4,2.4,general
+710,Male,4,141336,I,2,1,27.9,royal blue
+711,Male,52,153632,C,9,7,22.8,royal blue
+712,Female,31,65520,G,1,2,21.3,royal blue
+713,Female,69,153217,B,1,6,24.9,royal blue
+714,Male,62,92768,E,1,1,22.5,royal blue
+715,Female,54,132345,A,0,2,3.0,star
+716,Female,60,186069,H,1,2,14.7,prestige
+717,Female,31,53802,A,1,7,9.6,star
+718,Female,17,103739,B,6,4,18.6,prestige
+719,Female,15,50550,B,9,7,10.2,prestige
+720,Female,37,145648,B,7,6,6.3,star
+721,Male,36,85737,F,0,3,11.1,prestige
+722,Female,27,99950,C,0,4,6.0,star
+723,Female,11,83220,D,7,4,6.3,star
+724,Male,53,73410,C,8,5,15.0,prestige
+725,Female,41,64310,H,2,1,12.9,prestige
+726,Female,20,59844,E,0,1,23.7,royal blue
+727,Male,3,67787,F,1,6,0.3,general
+728,Male,52,172841,D,0,1,1.2,general
+729,Male,45,145528,B,1,2,18.3,prestige
+730,Male,36,173807,A,0,2,12.6,prestige
+731,Male,60,185794,C,7,1,20.7,royal blue
+732,Male,8,119780,B,1,3,21.3,royal blue
+733,Female,9,158596,A,1,2,25.8,royal blue
+734,Female,41,118122,C,0,6,15.6,prestige
+735,Male,38,99964,B,7,4,3.3,star
+736,Female,69,120752,F,1,6,8.1,star
+737,Female,33,189630,F,5,5,15.9,prestige
+738,Male,64,125510,B,3,3,1.8,general
+739,Male,19,101799,D,1,1,14.7,prestige
+740,Female,58,92914,A,0,3,22.2,royal blue
+741,Female,61,162465,D,9,3,17.7,prestige
+742,Male,54,163818,D,2,1,8.1,star
+743,Female,43,53832,C,4,1,16.8,prestige
+744,Female,30,140190,D,1,4,14.7,prestige
+745,Male,16,125836,B,1,4,20.7,royal blue
+746,Male,59,100938,C,0,7,8.1,star
+747,Male,5,168670,A,1,3,11.1,prestige
+748,Female,54,176885,C,0,3,3.0,star
+749,Female,41,111174,A,4,5,8.4,star
+750,Male,50,127335,A,6,6,29.1,royal blue
+751,Male,37,149103,B,10,1,0.9,general
+752,Male,57,167705,B,0,7,9.3,star
+753,Female,50,183548,C,1,4,25.5,royal blue
+754,Female,14,50396,G,0,6,13.8,prestige
+755,Female,17,63557,H,1,1,0.9,general
+756,Female,68,87878,A,1,6,16.5,prestige
+757,Male,3,55634,D,8,3,15.9,prestige
+758,Female,53,118110,D,1,5,7.8,star
+759,Male,13,129396,A,6,6,10.8,prestige
+760,Female,46,62628,C,8,6,19.2,prestige
+761,Female,25,51700,B,4,6,5.1,star
+762,Female,4,106816,A,7,5,14.7,prestige
+763,Male,64,93000,G,0,2,20.1,royal blue
+764,Female,54,144148,E,1,4,21.3,royal blue
+765,Male,12,101388,A,0,2,27.0,royal blue
+766,Female,56,171560,D,0,2,23.4,royal blue
+767,Male,58,156366,C,8,1,18.0,prestige
+768,Female,0,143910,H,1,7,6.6,star
+769,Female,25,106569,D,1,3,25.2,royal blue
+770,Male,28,173009,B,9,6,7.5,star
+771,Male,48,54252,D,0,5,8.7,star
+772,Male,56,104600,C,6,3,17.1,prestige
+773,Male,61,50250,A,0,2,16.2,prestige
+774,Male,47,93242,C,0,7,25.2,royal blue
+775,Female,53,156839,A,3,7,11.4,prestige
+776,Female,64,71305,A,9,2,11.7,prestige
+777,Male,19,85975,C,0,6,21.9,royal blue
+778,Male,64,188107,D,10,2,15.6,prestige
+779,Male,19,82333,H,1,2,10.5,prestige
+780,Male,54,125016,C,1,7,7.5,star
+781,Female,10,148908,B,2,3,3.0,star
+782,Female,19,58217,A,0,1,21.0,royal blue
+783,Male,44,76521,D,7,4,8.7,star
+784,Female,65,117763,A,1,2,12.6,prestige
+785,Female,34,115184,I,1,4,27.9,royal blue
+786,Male,30,54251,A,2,6,2.1,general
+787,Female,53,112530,C,2,6,7.2,star
+788,Male,67,107409,A,1,6,0.6,general
+789,Female,23,84793,I,9,6,6.9,star
+790,Female,25,66952,C,1,2,23.7,royal blue
+791,Female,54,153465,G,1,4,3.3,star
+792,Female,1,178214,A,1,7,5.1,star
+793,Male,40,152069,C,4,4,12.6,prestige
+794,Female,56,132860,B,7,2,5.1,star
+795,Female,0,147719,G,1,7,25.8,royal blue
+796,Female,61,172915,E,9,1,8.7,star
+797,Female,51,148594,C,3,5,8.7,star
+798,Male,33,61986,F,0,1,23.1,royal blue
+799,Male,45,91456,A,1,4,3.9,star
+800,Male,11,166247,F,1,2,25.2,royal blue
+801,Female,61,140516,A,0,3,15.0,prestige
+802,Male,51,148208,,5,7,10.8,prestige
+803,Female,62,133822,H,0,4,23.4,royal blue
+804,Female,44,175424,A,4,5,9.6,star
+805,Female,67,121528,B,8,4,27.6,royal blue
+806,Female,30,189369,B,0,3,20.7,royal blue
+807,Female,62,80808,A,1,1,7.8,star
+808,Male,25,57535,C,1,7,25.2,royal blue
+809,Female,61,163509,B,0,4,15.3,prestige
+810,Female,42,75884,F,0,7,17.1,prestige
+811,Female,59,157759,A,1,6,15.6,prestige
+812,Female,37,184813,F,0,2,13.2,prestige
+813,Male,59,187253,F,8,7,15.3,prestige
+814,Male,41,81718,C,1,3,10.8,prestige
+815,Male,60,150019,E,1,2,11.1,prestige
+816,Female,51,53452,C,1,6,21.9,royal blue
+817,Male,55,150765,I,8,2,12.6,prestige
+818,Female,61,154456,,0,7,21.3,royal blue
+819,Female,65,56647,E,6,4,3.6,star
+820,Female,19,117477,B,6,7,14.4,prestige
+821,Female,48,79677,A,10,7,2.7,general
+822,Female,0,116759,H,7,3,8.4,star
+823,Male,26,180702,C,6,1,6.3,star
+824,Female,2,122698,C,8,1,30.0,royal blue
+825,Female,60,169346,B,7,2,16.5,prestige
+826,Female,67,93176,A,4,1,7.5,star
+827,Female,4,75853,I,4,5,12.0,prestige
+828,Male,7,119362,D,8,1,17.4,prestige
+829,Male,28,81545,A,4,7,10.8,prestige
+830,Male,67,67372,A,0,7,22.5,royal blue
+831,Female,30,109703,F,1,1,18.3,prestige
+832,Male,38,166697,H,13,4,11.7,prestige
+833,Female,40,124982,D,1,7,10.2,prestige
+834,Female,6,146776,G,1,7,24.9,royal blue
+835,Female,3,147548,F,4,5,13.5,prestige
+836,Female,51,117620,B,7,6,18.0,prestige
+837,Male,63,85351,B,0,2,17.1,prestige
+838,Male,65,174432,A,0,7,2.4,general
+839,Male,44,70787,E,1,3,20.4,royal blue
+840,Female,60,75473,B,0,7,18.9,prestige
+841,Male,46,90082,B,1,6,14.7,prestige
+842,Female,62,185388,B,0,2,16.2,prestige
+843,Female,5,168110,E,14,6,20.7,royal blue
+844,Female,67,184628,A,12,2,11.4,prestige
+845,Female,38,176551,B,8,1,13.5,prestige
+846,Female,31,76422,B,9,7,6.3,star
+847,Male,2,164248,C,9,3,15.3,prestige
+848,Female,52,109188,G,5,7,11.4,prestige
+849,Female,66,132951,B,4,1,7.8,star
+850,Female,45,164598,B,8,1,9.6,star
+851,Male,69,186655,,7,2,9.6,star
+852,Female,62,111859,B,6,1,25.8,royal blue
+853,Female,0,121926,G,7,1,12.3,prestige
+854,Female,11,143047,F,1,3,12.6,prestige
+855,Female,22,131748,A,1,3,6.9,star
+856,Male,46,142801,G,0,1,6.9,star
+857,Male,55,142723,D,0,6,13.8,prestige
+858,Male,21,155151,H,14,3,4.8,star
+859,Female,64,153607,B,1,4,14.4,prestige
+860,Male,64,144192,B,0,3,10.2,prestige
+861,Female,53,174159,G,4,4,6.6,star
+862,Female,63,73642,H,0,3,15.0,prestige
+863,Female,12,170319,A,8,7,13.8,prestige
+864,Female,0,141351,D,0,2,3.0,star
+865,Female,49,167411,H,12,5,2.7,general
+866,Male,60,58289,A,5,6,14.7,prestige
+867,Female,45,79801,E,0,2,23.1,royal blue
+868,Female,52,146118,H,8,7,15.6,prestige
+869,Female,57,57337,B,1,4,4.2,star
+870,Female,43,113575,C,1,2,1.8,general
+871,Male,63,122658,D,6,2,19.5,prestige
+872,Female,62,151836,A,0,6,3.9,star
+873,Female,43,185900,I,9,4,24.0,royal blue
+874,Female,34,94029,B,1,4,29.4,royal blue
+875,Female,30,157290,A,2,2,6.6,star
+876,Male,67,175996,C,10,4,12.6,prestige
+877,Male,68,102016,A,0,4,11.1,prestige
+878,Male,16,77902,A,1,2,20.1,royal blue
+879,Female,15,81138,B,9,7,25.8,royal blue
+880,Male,25,128258,F,0,2,14.4,prestige
+881,Female,29,62475,A,6,4,7.2,star
+882,Female,55,82854,A,6,4,22.5,royal blue
+883,Female,30,59284,E,7,7,11.4,prestige
+884,Female,13,141580,B,0,4,27.6,royal blue
+885,Female,58,171362,F,6,4,27.0,royal blue
+886,Male,5,78274,A,9,2,19.5,prestige
+887,Female,65,76646,A,0,1,18.3,prestige
+888,Female,62,78308,F,5,2,19.8,prestige
+889,Female,63,78971,D,1,2,26.7,royal blue
+890,Female,45,65528,H,1,5,21.9,royal blue
+891,Male,67,94199,A,5,7,21.3,royal blue
+892,Female,58,135705,D,8,7,14.4,prestige
+893,Male,52,130573,C,8,3,9.3,star
+894,Female,55,152303,A,1,5,20.4,royal blue
+895,Female,31,144582,E,1,1,26.7,royal blue
+896,Female,54,93288,A,10,6,18.0,prestige
+897,Female,63,88192,H,10,2,0.9,general
+898,Male,18,62362,G,7,3,24.3,royal blue
+899,Male,43,74350,G,10,1,11.7,prestige
+900,Male,3,144103,B,8,7,12.6,prestige
+901,Male,1,75518,G,7,3,5.1,star
+902,Male,53,160980,E,4,2,18.6,prestige
+903,Female,45,102904,A,7,6,8.4,star
+904,Female,15,174501,,9,7,11.1,prestige
+905,Female,47,157661,B,6,6,17.1,prestige
+906,Female,66,118385,B,10,3,2.4,general
+907,Female,17,116463,A,8,4,30.0,royal blue
+908,Female,1,161212,A,9,6,4.2,star
+909,Male,16,172601,H,4,6,15.0,prestige
+910,Female,52,167214,I,8,7,28.2,royal blue
+911,Male,21,69644,A,5,1,5.7,star
+912,Female,19,120215,I,7,2,13.8,prestige
+913,Female,29,180401,D,7,6,6.9,star
+914,Female,40,113739,A,5,7,27.9,royal blue
+915,Male,46,111717,B,1,2,12.3,prestige
+916,Male,61,62808,D,0,4,6.0,star
+917,Female,24,67582,A,1,3,3.9,star
+918,Male,4,96543,A,9,1,18.0,prestige
+919,Male,60,89667,A,0,2,20.7,royal blue
+920,Female,56,98980,D,0,1,19.5,prestige
+921,Male,14,124998,G,1,3,5.1,star
+922,Male,52,189091,A,0,6,3.6,star
+923,Female,14,153842,A,1,3,0.9,general
+924,Male,30,106314,A,0,7,4.8,star
+925,Female,40,62901,A,8,5,18.0,prestige
+926,Male,14,149618,B,4,6,23.4,royal blue
+927,Female,65,72068,B,0,6,29.1,royal blue
+928,Male,25,81367,,0,3,26.1,royal blue
+929,Female,65,118575,C,1,3,3.0,star
+930,Female,12,82382,F,1,3,29.1,royal blue
+931,Male,52,114776,C,10,3,16.5,prestige
+932,Female,2,145597,A,1,6,24.3,royal blue
+933,Male,51,162072,D,1,1,25.8,royal blue
+934,Male,63,172872,B,0,7,3.3,star
+935,Female,30,182162,A,1,3,1.8,general
+936,Female,68,71467,A,5,7,24.3,royal blue
+937,Female,21,85568,B,0,6,0.3,general
+938,Female,69,56851,C,6,3,21.6,royal blue
+939,Female,0,116782,A,9,5,21.9,royal blue
+940,Female,50,67781,C,4,4,0.3,general
+941,Female,51,70152,B,0,2,8.7,star
+942,Male,18,185861,A,3,6,24.6,royal blue
+943,Male,43,162595,A,3,3,5.1,star
+944,Female,29,80098,G,10,6,16.2,prestige
+945,Female,20,184801,G,1,1,2.4,general
+946,Female,39,58908,A,6,6,11.1,prestige
+947,Female,9,146011,H,9,5,20.7,royal blue
+948,Female,45,135174,A,9,4,11.7,prestige
+949,Female,65,114244,A,0,1,19.2,prestige
+950,Female,64,157207,B,0,4,15.6,prestige
+951,Female,51,128834,C,5,4,6.9,star
+952,Male,54,51166,C,0,7,7.2,star
+953,Female,32,130118,A,0,4,10.8,prestige
+954,Male,29,87014,E,11,4,21.3,royal blue
+955,Female,25,111379,A,0,2,27.9,royal blue
+956,Male,5,83704,C,1,1,24.6,royal blue
+957,Female,55,90558,B,8,2,14.7,prestige
+958,Male,12,187343,B,6,3,4.2,star
+959,Female,51,111174,C,9,6,14.4,prestige
+960,Male,57,64461,D,4,4,18.9,prestige
+961,Male,12,109618,A,7,3,29.1,royal blue
+962,Male,61,189357,G,7,1,1.2,general
+963,Female,63,120955,A,6,1,23.7,royal blue
+964,Female,67,168898,I,8,7,16.2,prestige
+965,Male,59,130431,B,6,3,15.6,prestige
+966,Male,59,161091,D,9,1,16.8,prestige
+967,Female,26,69988,I,5,4,0.6,general
+968,Female,5,169702,E,5,1,29.4,royal blue
+969,Male,32,186897,B,1,7,14.7,prestige
+970,Female,68,109061,D,6,1,12.3,prestige
+971,Male,31,188620,A,3,6,9.0,star
+972,Female,59,108675,A,4,5,17.1,prestige
+973,Female,50,177601,C,0,2,10.2,prestige
+974,Female,12,87365,H,1,2,0.9,general
+975,Male,50,95929,D,0,2,6.9,star
+976,Male,59,97185,C,0,5,26.1,royal blue
+977,Female,56,103838,A,1,2,5.1,star
+978,Male,18,129260,E,1,3,3.3,star
+979,Female,66,151184,A,1,4,5.7,star
+980,Female,67,177512,D,2,3,18.6,prestige
+981,Male,39,140099,G,0,7,15.3,prestige
+982,Male,23,67535,B,7,6,29.1,royal blue
+983,Male,47,133236,F,1,6,18.3,prestige
+984,Female,41,87975,I,9,7,1.5,general
+985,Female,40,164350,B,0,5,6.9,star
+986,Male,36,55109,A,8,3,15.9,prestige
+987,Female,12,67613,C,1,2,12.0,prestige
+988,Female,60,185306,C,0,2,14.1,prestige
+989,Female,24,154787,F,3,5,25.2,royal blue
+990,Female,17,109759,A,9,3,28.8,royal blue
+991,Female,62,114571,F,1,3,15.3,prestige
+992,Male,32,130697,A,1,2,27.9,royal blue
+993,Male,39,115916,E,13,6,7.2,star
+994,Female,50,69814,A,9,2,15.9,prestige
+995,Female,55,118161,D,0,4,22.2,royal blue
+996,Male,65,56583,B,2,3,19.5,prestige
+997,Female,17,185843,A,4,3,10.8,prestige
+998,Female,31,171825,C,10,4,6.6,star
+999,Male,24,77976,A,11,3,28.5,royal blue
+1000,Male,67,66312,C,0,1,22.5,royal blue
+1001,Female,62,81839,C,0,4,3.3,star
+1002,Female,50,55712,A,5,6,1.5,general
+1003,Male,33,158335,B,2,5,13.5,prestige
+1004,Male,8,74253,G,1,6,13.5,prestige
+1005,Male,67,119625,B,4,4,0.9,general
+1006,Female,8,129743,A,0,2,1.8,general
+1007,Female,61,101007,G,0,6,18.0,prestige
+1008,Male,53,87529,A,9,7,14.7,prestige
+1009,Male,8,151648,B,8,6,29.4,royal blue
+1010,Male,69,61637,,0,5,20.1,royal blue
+1011,Male,14,164659,C,1,6,17.7,prestige
+1012,Female,50,125623,F,0,4,18.6,prestige
+1013,Female,55,104054,A,8,4,6.6,star
+1014,Male,58,83535,A,1,5,16.8,prestige
+1015,Female,46,166245,F,7,3,3.9,star
+1016,Female,32,100890,C,4,4,18.0,prestige
+1017,Female,69,55972,C,1,7,24.9,royal blue
+1018,Female,55,134282,A,2,5,11.7,prestige
+1019,Female,25,106669,G,1,7,6.6,star
+1020,Female,69,145777,F,1,5,28.2,royal blue
+1021,Male,41,119259,B,1,5,27.3,royal blue
+1022,Female,1,150174,A,2,2,17.7,prestige
+1023,Female,45,55472,B,1,3,15.3,prestige
+1024,Male,55,99423,B,0,5,24.6,royal blue
+1025,Female,20,146221,H,0,3,7.5,star
+1026,Female,33,84238,A,1,2,9.3,star
+1027,Male,62,57032,C,1,5,22.5,royal blue
+1028,Male,63,88811,D,0,4,15.6,prestige
+1029,Male,60,167420,A,5,2,11.4,prestige
+1030,Male,38,101846,E,3,2,5.1,star
+1031,Male,15,114061,A,2,5,26.1,royal blue
+1032,Male,44,147449,A,1,5,4.8,star
+1033,Female,47,83043,F,0,1,22.8,royal blue
+1034,Female,66,168990,E,9,5,24.3,royal blue
+1035,Male,67,73867,B,4,5,19.5,prestige
+1036,Female,35,165772,B,1,4,15.3,prestige
+1037,Female,19,178217,H,0,3,11.4,prestige
+1038,Male,60,162612,D,1,6,29.4,royal blue
+1039,Male,37,99872,C,11,3,15.9,prestige
+1040,Female,49,142566,A,1,7,23.1,royal blue
+1041,Female,1,111424,C,8,5,24.0,royal blue
+1042,Male,43,187841,A,1,4,11.4,prestige
+1043,Female,46,171921,A,1,6,15.0,prestige
+1044,Female,65,115299,A,6,3,26.1,royal blue
+1045,Male,45,94129,B,6,7,8.1,star
+1046,Male,40,172378,C,5,6,11.7,prestige
+1047,Male,28,146597,D,1,4,9.3,star
+1048,Female,48,64057,E,0,3,13.2,prestige
+1049,Female,22,163585,A,9,5,14.7,prestige
+1050,Male,6,93186,C,1,3,24.9,royal blue
+1051,Male,46,149764,C,0,6,0.3,general
+1052,Male,17,116822,E,1,3,25.2,royal blue
+1053,Female,46,109346,C,1,2,11.1,prestige
+1054,Female,42,111587,A,7,4,29.7,royal blue
+1055,Female,38,166644,A,8,6,19.8,prestige
+1056,Female,50,181270,A,1,1,16.8,prestige
+1057,Male,47,65207,B,1,2,24.3,royal blue
+1058,Female,42,112146,I,8,4,6.3,star
+1059,Male,8,104953,E,1,6,17.1,prestige
+1060,Female,34,139009,A,0,4,7.2,star
+1061,Female,53,67916,B,0,6,24.6,royal blue
+1062,Female,52,99983,F,0,1,26.4,royal blue
+1063,Male,63,131122,A,9,6,12.0,prestige
+1064,Female,58,173190,E,9,4,11.1,prestige
+1065,Male,23,122712,H,1,1,6.3,star
+1066,Female,50,55792,A,1,6,9.0,star
+1067,Male,45,73892,E,1,4,13.5,prestige
+1068,Female,30,78821,,1,4,13.8,prestige
+1069,Female,54,152475,A,0,7,3.6,star
+1070,Male,45,152226,A,4,4,26.1,royal blue
+1071,Male,55,117679,C,1,3,5.4,star
+1072,Male,23,146473,A,1,4,26.1,royal blue
+1073,Male,49,66051,B,1,7,22.5,royal blue
+1074,Male,47,162332,C,1,5,21.6,royal blue
+1075,Female,63,166018,E,0,3,21.3,royal blue
+1076,Female,65,67398,C,2,5,24.3,royal blue
+1077,Male,44,73760,C,1,6,21.0,royal blue
+1078,Male,65,167578,C,0,1,19.8,prestige
+1079,Male,28,130267,D,8,4,13.5,prestige
+1080,Male,61,94846,D,0,5,28.5,royal blue
+1081,Female,51,155396,D,9,5,0.3,general
+1082,Female,60,138013,A,8,7,4.8,star
+1083,Male,49,148286,C,0,4,23.1,royal blue
+1084,Female,6,101031,A,1,1,8.4,star
+1085,Female,38,52884,G,1,1,7.2,star
+1086,Male,57,153230,B,8,1,4.5,star
+1087,Female,63,63261,D,1,7,3.9,star
+1088,Male,44,90167,D,0,3,25.2,royal blue
+1089,Female,10,162076,,0,3,23.4,royal blue
+1090,Female,54,53622,A,0,3,8.1,star
+1091,Female,7,172913,F,3,4,28.2,royal blue
+1092,Female,41,94316,A,0,6,25.8,royal blue
+1093,Male,57,141383,,7,5,0.9,general
+1094,Female,33,67874,A,0,2,16.5,prestige
+1095,Female,34,176554,B,1,2,18.6,prestige
+1096,Female,53,135341,B,10,2,16.8,prestige
+1097,Female,47,129019,B,0,3,17.1,prestige
+1098,Male,53,107879,E,1,6,0.9,general
+1099,Male,62,79531,A,1,1,1.2,general
+1100,Male,59,63379,A,12,7,17.7,prestige
+1101,Female,27,156258,C,0,4,16.2,prestige
+1102,Male,40,67874,C,9,3,12.3,prestige
+1103,Female,56,159964,D,5,6,17.1,prestige
+1104,Female,69,103706,C,1,2,15.0,prestige
+1105,Female,66,64713,C,2,7,25.2,royal blue
+1106,Female,65,90414,A,1,5,16.5,prestige
+1107,Female,52,171100,F,0,5,10.2,prestige
+1108,Male,36,187305,D,6,7,25.5,royal blue
+1109,Female,30,139758,G,0,6,13.8,prestige
+1110,Female,66,91226,B,0,5,16.8,prestige
+1111,Female,69,143928,D,9,7,9.0,star
+1112,Female,34,92366,B,0,6,4.2,star
+1113,Male,44,175041,A,4,1,7.5,star
+1114,Male,67,147301,G,1,5,27.9,royal blue
+1115,Male,56,119296,D,0,7,14.7,prestige
+1116,Female,30,126306,A,0,1,13.2,prestige
+1117,Male,13,100647,F,1,3,14.7,prestige
+1118,Female,65,168663,D,11,5,4.8,star
+1119,Female,2,105391,F,1,7,12.6,prestige
+1120,Female,48,175179,F,9,4,12.9,prestige
+1121,Female,54,165019,C,1,2,3.6,star
+1122,Female,55,68212,B,7,4,7.8,star
+1123,Male,13,64572,A,1,2,21.3,royal blue
+1124,Female,55,92591,A,8,2,29.7,royal blue
+1125,Female,41,69730,A,1,4,29.1,royal blue
+1126,Female,25,156793,H,2,4,17.1,prestige
+1127,Female,44,56848,A,5,1,12.3,prestige
+1128,Male,8,148450,B,0,6,16.5,prestige
+1129,Male,62,150619,A,10,6,9.6,star
+1130,Male,52,100261,A,1,6,3.0,star
+1131,Female,36,109895,B,5,2,16.8,prestige
+1132,Male,11,152684,G,0,3,7.2,star
+1133,Female,54,133765,A,1,3,24.9,royal blue
+1134,Female,69,57677,G,0,5,29.7,royal blue
+1135,Female,51,112358,A,0,6,8.1,star
+1136,Female,57,73845,A,1,7,15.6,prestige
+1137,Male,62,89531,B,6,2,12.6,prestige
+1138,Male,29,118092,C,7,3,30.0,royal blue
+1139,Male,62,144242,C,1,4,14.7,prestige
+1140,Female,43,140876,C,0,4,27.0,royal blue
+1141,Male,42,76888,H,0,1,7.8,star
+1142,Female,28,116644,A,6,3,26.4,royal blue
+1143,Female,57,143021,F,5,4,0.9,general
+1144,Female,56,145679,G,9,6,27.3,royal blue
+1145,Female,26,64398,G,1,6,2.1,general
+1146,Female,13,104512,H,9,3,12.0,prestige
+1147,Male,1,71564,A,1,5,20.4,royal blue
+1148,Female,59,122707,I,2,3,19.2,prestige
+1149,Female,61,51733,B,0,5,28.8,royal blue
+1150,Female,67,138087,H,1,7,18.9,prestige
+1151,Male,63,147278,G,0,4,15.3,prestige
+1152,Female,60,187339,B,0,6,18.6,prestige
+1153,Female,57,129972,F,1,6,29.1,royal blue
+1154,Female,59,151176,B,1,2,16.5,prestige
+1155,Female,34,74358,A,0,6,18.0,prestige
+1156,Male,59,83953,B,0,3,24.6,royal blue
+1157,Male,31,62925,D,1,6,7.2,star
+1158,Male,55,65257,E,2,3,27.9,royal blue
+1159,Female,3,188557,B,9,2,1.2,general
+1160,Male,64,163783,B,3,1,25.2,royal blue
+1161,Female,1,108342,E,0,3,29.1,royal blue
+1162,Female,20,155951,B,7,4,6.3,star
+1163,Female,18,183071,A,7,4,8.7,star
+1164,Female,53,124104,B,4,6,6.0,star
+1165,Female,21,136747,B,1,1,0.9,general
+1166,Male,19,189498,A,4,1,5.4,star
+1167,Female,44,76149,A,9,6,14.4,prestige
+1168,Female,44,185550,A,0,1,16.2,prestige
+1169,Female,52,119567,A,5,2,5.7,star
+1170,Female,14,79806,D,1,6,9.0,star
+1171,Male,10,180774,C,1,5,19.8,prestige
+1172,Female,50,90142,G,1,2,15.0,prestige
+1173,Female,52,184481,F,0,2,25.2,royal blue
+1174,Female,32,66089,A,6,3,22.5,royal blue
+1175,Female,16,60044,A,4,1,24.9,royal blue
+1176,Male,61,52543,F,0,6,6.9,star
+1177,Male,57,50429,A,0,1,6.9,star
+1178,Male,65,178228,D,1,2,13.5,prestige
+1179,Female,38,161130,A,8,3,29.4,royal blue
+1180,Male,40,87976,G,1,6,11.4,prestige
+1181,Female,40,179150,A,5,2,27.3,royal blue
+1182,Female,62,163442,F,1,6,9.6,star
+1183,Female,43,108159,C,8,7,5.4,star
+1184,Female,62,73419,B,0,1,4.2,star
+1185,Female,12,138425,E,11,6,23.4,royal blue
+1186,Male,65,54431,B,1,7,27.9,royal blue
+1187,Female,58,168437,A,2,2,24.3,royal blue
+1188,Female,55,71322,C,1,6,16.2,prestige
+1189,Female,69,122548,,2,5,4.2,star
+1190,Female,20,141428,C,1,5,9.6,star
+1191,Male,67,142214,A,7,4,9.6,star
+1192,Female,63,62590,A,9,6,12.9,prestige
+1193,Male,54,172523,A,6,2,24.9,royal blue
+1194,Female,16,157588,F,2,6,22.8,royal blue
+1195,Female,10,143313,E,4,7,17.1,prestige
+1196,Female,59,119833,E,1,2,11.4,prestige
+1197,Female,54,70803,C,0,5,10.5,prestige
+1198,Male,52,139008,A,1,4,14.1,prestige
+1199,Male,53,126669,A,1,6,15.9,prestige
+1200,Male,57,122722,F,9,4,3.0,star
+1201,Male,1,79800,A,0,1,14.1,prestige
+1202,Male,59,100155,B,6,1,1.5,general
+1203,Female,32,110846,A,0,2,14.7,prestige
+1204,Female,1,106841,C,0,3,20.7,royal blue
+1205,Female,54,117181,E,12,5,19.8,prestige
+1206,Female,56,86898,B,0,6,22.8,royal blue
+1207,Female,31,143241,F,4,7,24.3,royal blue
+1208,Female,26,146028,B,0,5,9.9,star
+1209,Male,7,165287,E,1,3,19.5,prestige
+1210,Female,60,132486,A,1,2,2.7,general
+1211,Male,62,96424,A,8,5,22.2,royal blue
+1212,Female,63,151468,A,1,5,12.3,prestige
+1213,Female,8,76561,B,0,1,23.7,royal blue
+1214,Female,51,125316,G,0,6,24.3,royal blue
+1215,Male,21,109373,C,4,2,6.6,star
+1216,Male,66,135042,A,0,7,3.6,star
+1217,Female,48,59784,A,3,3,24.3,royal blue
+1218,Male,56,140687,A,1,2,18.9,prestige
+1219,Male,1,182927,B,1,1,16.5,prestige
+1220,Female,62,175534,A,1,6,13.2,prestige
+1221,Male,68,170957,G,1,3,1.8,general
+1222,Male,40,81197,A,0,4,22.8,royal blue
+1223,Female,21,104888,B,0,4,2.4,general
+1224,Male,44,184838,,8,5,5.4,star
+1225,Female,62,139588,F,0,2,19.8,prestige
+1226,Male,22,126543,I,0,3,13.5,prestige
+1227,Female,57,177260,C,14,2,13.5,prestige
+1228,Male,44,156823,B,9,5,12.6,prestige
+1229,Female,27,183201,D,8,6,15.6,prestige
+1230,Female,65,84925,A,4,6,13.8,prestige
+1231,Male,59,69719,A,9,2,14.1,prestige
+1232,Female,41,61355,B,1,3,3.9,star
+1233,Male,41,156014,E,14,5,14.7,prestige
+1234,Male,21,184088,C,11,7,6.3,star
+1235,Female,59,158372,A,1,1,29.4,royal blue
+1236,Female,64,135742,B,1,7,20.1,royal blue
+1237,Female,38,145704,H,0,4,24.6,royal blue
+1238,Female,40,157307,F,4,3,6.9,star
+1239,Female,25,88064,F,1,5,21.9,royal blue
+1240,Female,3,167226,I,3,1,17.7,prestige
+1241,Female,40,153821,H,1,4,2.4,general
+1242,Male,29,170669,E,9,5,23.4,royal blue
+1243,Male,58,93555,A,3,3,3.9,star
+1244,Female,20,101941,B,1,3,5.4,star
+1245,Female,58,78795,D,0,6,13.2,prestige
+1246,Female,40,55875,D,0,5,28.2,royal blue
+1247,Female,44,177513,G,1,5,24.3,royal blue
+1248,Female,57,100850,E,0,3,24.9,royal blue
+1249,Female,0,143082,C,0,7,18.9,prestige
+1250,Female,66,85447,A,9,6,1.2,general
+1251,Female,45,114213,E,9,4,9.9,star
+1252,Male,14,161120,F,0,1,20.7,royal blue
+1253,Female,8,186682,C,1,1,25.8,royal blue
+1254,Male,58,105302,E,0,3,22.5,royal blue
+1255,Female,5,133400,D,0,6,14.1,prestige
+1256,Male,40,56432,D,0,5,6.9,star
+1257,Female,49,136467,B,3,3,21.6,royal blue
+1258,Male,60,189945,D,0,5,6.0,star
+1259,Female,25,163966,G,1,5,14.4,prestige
+1260,Male,47,52152,A,0,3,5.1,star
+1261,Male,53,145720,I,12,7,18.6,prestige
+1262,Male,24,188034,B,1,5,18.3,prestige
+1263,Female,46,127911,I,9,2,0.9,general
+1264,Female,40,174114,G,1,1,9.3,star
+1265,Male,53,144489,A,14,3,3.0,star
+1266,Male,63,77440,G,0,5,14.1,prestige
+1267,Female,24,86119,A,1,6,13.2,prestige
+1268,Female,5,100056,C,1,3,14.7,prestige
+1269,Male,7,66686,A,8,7,15.0,prestige
+1270,Female,41,74696,E,1,6,12.3,prestige
+1271,Male,23,65641,C,4,5,15.0,prestige
+1272,Female,0,61228,C,1,6,24.3,royal blue
+1273,Female,2,138529,B,0,4,26.1,royal blue
+1274,Female,42,152405,A,1,4,1.2,general
+1275,Male,18,157757,E,0,4,25.2,royal blue
+1276,Male,11,166361,D,6,4,17.7,prestige
+1277,Female,65,67227,A,1,7,9.0,star
+1278,Male,20,161156,D,0,4,26.4,royal blue
+1279,Female,58,170647,B,1,7,21.0,royal blue
+1280,Female,67,161646,B,0,2,10.8,prestige
+1281,Male,43,98016,B,9,6,5.4,star
+1282,Male,36,50526,A,0,6,5.7,star
+1283,Male,2,175208,F,8,4,12.9,prestige
+1284,Female,35,97721,D,0,7,14.4,prestige
+1285,Female,51,142013,C,3,4,24.3,royal blue
+1286,Male,54,166737,A,0,3,22.8,royal blue
+1287,Female,18,62651,C,0,2,3.9,star
+1288,Female,54,179546,I,8,4,1.2,general
+1289,Female,68,51866,A,12,7,24.3,royal blue
+1290,Female,45,86297,F,9,4,12.6,prestige
+1291,Female,68,65031,A,0,4,6.9,star
+1292,Male,64,69383,C,0,2,7.5,star
+1293,Male,24,70733,A,5,3,18.9,prestige
+1294,Female,47,187898,A,6,2,26.7,royal blue
+1295,Female,40,116001,D,1,4,16.5,prestige
+1296,Male,68,87040,A,9,1,1.2,general
+1297,Female,18,180956,A,2,2,22.2,royal blue
+1298,Female,53,115517,B,0,6,24.6,royal blue
+1299,Male,34,76979,G,1,3,13.8,prestige
+1300,Male,51,50798,A,10,5,16.8,prestige
+1301,Female,61,146350,A,1,3,12.9,prestige
+1302,Female,47,81112,B,5,3,18.3,prestige
+1303,Male,52,80605,E,1,6,6.0,star
+1304,Male,40,171949,E,1,6,3.3,star
+1305,Male,63,159006,A,8,6,7.8,star
+1306,Female,45,177368,B,1,2,28.8,royal blue
+1307,Female,53,187643,A,1,1,0.9,general
+1308,Male,23,93841,G,0,7,7.5,star
+1309,Male,15,131061,B,0,7,27.6,royal blue
+1310,Male,49,146130,C,6,6,6.0,star
+1311,Male,50,84471,E,1,5,23.7,royal blue
+1312,Female,35,144485,C,0,4,4.5,star
+1313,Female,39,158638,B,2,5,23.4,royal blue
+1314,Male,4,96693,C,0,4,8.4,star
+1315,Female,53,129507,B,4,7,27.9,royal blue
+1316,Female,64,114510,B,0,4,11.7,prestige
+1317,Female,33,109396,,1,2,5.1,star
+1318,Female,12,149031,A,10,5,28.8,royal blue
+1319,Female,47,66256,G,1,2,3.9,star
+1320,Female,48,118285,E,8,4,20.7,royal blue
+1321,Male,67,128723,A,4,5,17.4,prestige
+1322,Female,28,178285,A,4,7,27.3,royal blue
+1323,Female,69,144176,H,7,2,22.2,royal blue
+1324,Male,27,82474,A,9,3,9.3,star
+1325,Female,65,159010,G,6,2,25.2,royal blue
+1326,Female,6,76164,A,6,2,24.9,royal blue
+1327,Male,18,77873,F,6,5,14.7,prestige
+1328,Male,42,53392,A,6,4,26.7,royal blue
+1329,Male,50,168898,A,9,7,12.3,prestige
+1330,Male,56,128917,I,5,5,2.1,general
+1331,Male,69,185067,G,5,4,14.7,prestige
+1332,Male,23,132183,A,10,3,22.8,royal blue
+1333,Female,52,82060,B,7,1,13.8,prestige
+1334,Female,67,133614,A,7,4,17.4,prestige
+1335,Male,42,94844,,7,6,19.2,prestige
+1336,Female,45,76474,E,5,5,1.5,general
+1337,Female,14,94655,B,8,1,2.7,general
+1338,Male,3,60933,E,8,1,9.0,star
+1339,Male,16,79257,B,6,2,24.6,royal blue
+1340,Female,45,125677,C,5,2,10.8,prestige
+1341,Female,23,127971,A,1,5,16.8,prestige
+1342,Male,38,76103,F,9,3,18.6,prestige
+1343,Female,45,114741,A,0,5,28.8,royal blue
+1344,Female,52,157994,A,1,1,27.6,royal blue
+1345,Male,43,93786,C,3,1,13.2,prestige
+1346,Male,36,75178,C,1,7,12.3,prestige
+1347,Male,13,175267,B,1,4,24.3,royal blue
+1348,Female,66,99263,B,8,1,30.0,royal blue
+1349,Female,53,52590,B,0,4,0.9,general
+1350,Male,33,170959,A,0,4,22.5,royal blue
+1351,Male,68,135076,D,1,5,18.0,prestige
+1352,Male,58,167112,G,0,1,10.2,prestige
+1353,Female,57,184639,E,1,6,3.6,star
+1354,Female,58,172369,A,6,6,24.0,royal blue
+1355,Female,43,124256,H,1,7,20.1,royal blue
+1356,Female,64,89972,A,10,6,27.6,royal blue
+1357,Male,66,67799,C,1,6,12.6,prestige
+1358,Female,42,176074,E,1,7,21.0,royal blue
+1359,Male,48,167517,A,2,7,8.1,star
+1360,Female,64,77914,A,1,6,3.3,star
+1361,Female,8,57605,E,0,2,24.3,royal blue
+1362,Female,52,86365,D,1,7,21.0,royal blue
+1363,Male,3,93883,B,1,2,11.7,prestige
+1364,Female,44,131091,A,4,1,18.6,prestige
+1365,Male,14,87222,B,8,4,4.2,star
+1366,Female,50,117076,E,1,2,13.5,prestige
+1367,Male,53,150925,B,1,2,0.3,general
+1368,Female,31,149379,G,0,3,30.0,royal blue
+1369,Female,31,138644,D,4,3,28.2,royal blue
+1370,Male,67,148493,E,4,7,12.6,prestige
+1371,Male,27,84658,G,4,6,19.8,prestige
+1372,Male,2,111618,G,6,5,29.7,royal blue
+1373,Male,51,108759,A,7,6,18.0,prestige
+1374,Male,64,186203,A,10,5,21.9,royal blue
+1375,Female,11,147258,G,10,2,17.7,prestige
+1376,Female,48,132983,B,7,7,20.1,royal blue
+1377,Male,42,149092,D,8,1,11.7,prestige
+1378,Male,36,163845,E,5,7,25.2,royal blue
+1379,Male,67,117777,A,5,5,20.1,royal blue
+1380,Male,58,131584,A,7,3,5.4,star
+1381,Female,21,123904,A,7,5,27.3,royal blue
+1382,Female,62,89801,A,5,4,26.4,royal blue
+1383,Male,43,173466,C,10,5,17.1,prestige
+1384,Female,34,55690,H,4,6,1.2,general
+1385,Female,50,104467,,5,1,21.6,royal blue
+1386,Male,39,100419,A,5,4,5.7,star
+1387,Female,52,62951,G,8,2,14.1,prestige
+1388,Male,39,118554,G,4,6,0.3,general
+1389,Female,13,140673,A,6,7,14.7,prestige
+1390,Female,68,75561,B,5,3,26.1,royal blue
+1391,Female,47,147306,B,6,6,15.0,prestige
+1392,Female,35,111871,E,10,1,9.0,star
+1393,Male,5,112884,B,0,6,12.9,prestige
+1394,Female,47,121267,D,1,1,17.4,prestige
+1395,Female,48,151519,A,7,2,27.9,royal blue
+1396,Female,34,105448,A,0,5,12.0,prestige
+1397,Female,20,92048,B,1,1,27.3,royal blue
+1398,Male,61,99980,B,10,1,28.2,royal blue
+1399,Male,16,84003,A,9,6,20.4,royal blue
+1400,Male,2,110889,F,1,2,28.5,royal blue
+1401,Female,52,82478,F,10,1,28.5,royal blue
+1402,Male,69,139685,B,1,4,6.0,star
+1403,Female,54,182374,C,0,6,18.6,prestige
+1404,Female,58,119366,D,4,2,28.2,royal blue
+1405,Female,61,53788,E,0,2,17.1,prestige
+1406,Female,1,90341,E,0,2,27.6,royal blue
+1407,Female,67,118348,D,1,7,28.2,royal blue
+1408,Male,56,137428,A,0,2,26.1,royal blue
+1409,Female,62,106982,C,1,7,15.9,prestige
+1410,Female,12,98532,E,0,6,15.6,prestige
+1411,Female,38,120825,F,9,7,7.2,star
+1412,Female,51,58006,F,1,5,24.9,royal blue
+1413,Male,20,106941,A,1,1,21.9,royal blue
+1414,Male,43,129782,C,1,2,9.3,star
+1415,Male,63,121513,D,0,6,27.0,royal blue
+1416,Female,54,79925,B,0,3,9.0,star
+1417,Male,23,112089,B,7,7,22.2,royal blue
+1418,Female,1,138656,,3,4,8.1,star
+1419,Female,64,146794,B,8,3,27.0,royal blue
+1420,Female,55,75033,D,5,5,9.0,star
+1421,Female,55,149969,F,0,6,23.4,royal blue
+1422,Female,20,124852,B,5,5,11.7,prestige
+1423,Male,43,154837,F,8,4,12.6,prestige
+1424,Female,53,145678,F,0,1,16.5,prestige
+1425,Female,7,137354,A,8,7,26.7,royal blue
+1426,Female,50,136660,C,1,3,14.4,prestige
+1427,Female,12,63334,A,0,6,29.7,royal blue
+1428,Male,37,62893,F,1,5,8.7,star
+1429,Male,48,163514,E,9,2,26.7,royal blue
+1430,Male,29,145934,H,10,2,12.0,prestige
+1431,Female,54,119223,G,10,7,17.4,prestige
+1432,Male,59,127479,E,10,2,5.4,star
+1433,Female,25,136146,A,6,6,29.4,royal blue
+1434,Female,14,76001,A,7,3,13.8,prestige
+1435,Female,12,84885,B,6,2,7.2,star
+1436,Female,18,82812,A,6,2,0.3,general
+1437,Male,44,51260,C,5,5,12.9,prestige
+1438,Male,21,159572,B,5,5,12.6,prestige
+1439,Male,9,130186,A,9,7,26.4,royal blue
+1440,Female,49,176954,A,5,6,17.1,prestige
+1441,Male,58,85908,A,5,4,29.7,royal blue
+1442,Female,16,75831,B,10,7,1.5,general
+1443,Female,55,123045,D,7,3,16.8,prestige
+1444,Female,31,161211,G,9,1,3.0,star
+1445,Female,59,81702,H,6,4,8.1,star
+1446,Female,25,173043,A,8,6,0.9,general
+1447,Male,63,126380,A,6,1,27.0,royal blue
+1448,Female,60,128205,B,6,5,8.1,star
+1449,Female,41,181355,A,10,3,21.9,royal blue
+1450,Female,54,97931,B,9,7,21.0,royal blue
+1451,Male,42,146432,A,6,1,7.5,star
+1452,Female,67,125731,A,6,4,12.3,prestige
+1453,Female,43,132701,B,5,2,21.0,royal blue
+1454,Female,63,116095,A,5,1,2.4,general
+1455,Female,7,135773,A,9,5,12.6,prestige
+1456,Male,54,136417,B,9,6,13.5,prestige
+1457,Male,27,80783,A,9,3,24.6,royal blue
+1458,Male,28,182580,F,6,6,18.0,prestige
+1459,Female,54,143567,A,7,2,14.4,prestige
+1460,Male,41,85908,C,5,4,25.5,royal blue
+1461,Female,58,139806,C,4,4,29.7,royal blue
+1462,Female,45,77269,A,8,1,7.2,star
+1463,Female,66,105968,D,4,5,19.5,prestige
+1464,Female,53,125660,D,10,4,5.7,star
+1465,Female,56,98444,C,7,4,22.8,royal blue
+1466,Male,60,179503,A,4,3,2.7,general
+1467,Female,5,60575,D,5,2,4.2,star
+1468,Female,65,75685,H,7,3,5.7,star
+1469,Female,49,85374,A,8,5,13.5,prestige
+1470,Female,48,128642,H,5,6,5.7,star
+1471,Male,25,182292,A,7,5,23.4,royal blue
+1472,Female,5,124702,A,10,3,28.2,royal blue
+1473,Female,58,127833,A,7,7,0.6,general
+1474,Female,50,178866,A,8,4,29.1,royal blue
+1475,Female,64,183643,A,5,5,15.3,prestige
+1476,Male,62,113306,F,5,6,1.2,general
+1477,Male,20,84008,A,8,4,23.1,royal blue
+1478,Male,55,85758,G,10,4,10.5,prestige
+1479,Female,42,63128,D,8,7,13.5,prestige
+1480,Male,65,70174,F,10,6,1.8,general
+1481,Female,67,170133,D,5,5,12.6,prestige
+1482,Female,25,165978,A,7,3,12.6,prestige
+1483,Female,17,149727,A,7,3,23.4,royal blue
+1484,Female,19,147052,,9,4,25.8,royal blue
+1485,Female,59,113389,E,4,6,23.7,royal blue
+1486,Male,30,111690,C,10,4,21.9,royal blue
+1487,Female,63,184830,E,9,3,18.0,prestige
+1488,Female,23,91549,A,4,3,6.9,star
+1489,Female,67,94629,H,6,3,5.1,star
+1490,Female,67,167558,A,4,7,29.7,royal blue
+1491,Male,64,119189,A,9,3,17.1,prestige
+1492,Female,28,96207,A,5,5,20.1,royal blue
+1493,Male,21,85339,E,4,7,1.8,general
+1494,Female,25,111942,A,5,5,2.1,general
+1495,Female,48,157003,D,5,4,13.5,prestige
+1496,Female,53,117123,A,9,7,6.9,star
+1497,Female,67,172747,A,7,2,22.8,royal blue
+1498,Male,33,157358,B,7,4,15.6,prestige
+1499,Male,5,156655,C,4,5,6.0,star
+1500,Male,42,166043,E,7,6,27.9,royal blue
+1501,Male,40,67768,E,10,6,4.5,star
+1502,Male,34,171353,E,8,4,10.2,prestige
+1503,Female,63,116971,F,7,5,22.8,royal blue
+1504,Female,55,97822,E,5,3,11.4,prestige
+1505,Female,56,117203,B,10,3,24.9,royal blue
+1506,Female,63,88720,A,10,1,30.0,royal blue
+1507,Female,9,173233,,5,1,5.4,star
+1508,Female,46,139447,A,8,7,10.8,prestige
+1509,Male,19,179269,C,6,3,27.9,royal blue
+1510,Female,54,136254,D,5,6,27.0,royal blue
+1511,Male,38,174594,F,8,2,16.8,prestige
+1512,Female,1,100429,C,9,1,5.7,star
+1513,Female,30,73107,A,9,1,14.4,prestige
+1514,Female,56,98344,A,6,6,7.5,star
+1515,Male,21,163509,B,10,1,6.3,star
+1516,Male,15,116204,D,8,2,4.8,star
+1517,Female,57,95853,B,9,1,15.9,prestige
+1518,Male,40,156411,A,6,5,21.0,royal blue
+1519,Male,2,72889,I,5,7,10.8,prestige
+1520,Female,63,106691,B,9,3,23.7,royal blue
+1521,Male,26,144832,A,5,3,12.6,prestige
+1522,Male,29,132297,C,8,1,15.9,prestige
+1523,Female,7,170345,F,9,5,0.9,general
+1524,Male,28,157383,G,8,2,3.9,star
+1525,Female,69,150782,F,8,2,5.4,star
+1526,Male,69,143987,B,10,5,26.1,royal blue
+1527,Female,13,129659,C,6,7,17.7,prestige
+1528,Male,43,104826,B,5,1,10.8,prestige
+1529,Female,4,181471,B,10,4,17.7,prestige
+1530,Female,42,152547,A,7,4,16.8,prestige
+1531,Male,43,85347,E,1,1,2.7,general
+1532,Female,49,122828,F,0,5,9.6,star
+1533,Male,18,107794,D,0,5,5.1,star
+1534,Male,39,152566,C,1,7,3.3,star
+1535,Female,41,91715,C,0,3,29.7,royal blue
+1536,Female,60,99222,A,1,6,14.4,prestige
+1537,Female,39,70280,D,0,4,29.7,royal blue
+1538,Female,60,70030,B,1,2,25.8,royal blue
+1539,Female,53,102083,A,1,1,7.2,star
+1540,Female,62,166163,D,8,5,26.1,royal blue
+1541,Female,6,182871,D,8,6,8.1,star
+1542,Male,50,187545,F,4,6,18.3,prestige
+1543,Male,60,182910,C,0,1,25.8,royal blue
+1544,Female,13,174530,G,1,6,9.0,star
+1545,Female,27,115438,A,0,6,11.1,prestige
+1546,Female,63,93964,A,4,2,24.0,royal blue
+1547,Female,61,180341,B,1,3,22.5,royal blue
+1548,Female,61,107323,D,7,7,0.3,general
+1549,Female,49,119435,C,0,7,16.5,prestige
+1550,Female,50,68341,A,13,6,6.6,star
+1551,Female,16,95365,A,0,5,18.0,prestige
+1552,Male,4,131093,G,1,7,23.7,royal blue
+1553,Female,34,100621,B,1,1,0.9,general
+1554,Male,10,116521,E,0,2,14.1,prestige
+1555,Female,3,136316,F,0,3,26.4,royal blue
+1556,Male,66,172039,G,0,6,15.3,prestige
+1557,Female,48,70844,C,0,3,6.6,star
+1558,Male,25,100964,H,1,6,28.8,royal blue
+1559,Female,68,128037,C,6,2,11.7,prestige
+1560,Male,54,97081,H,1,3,22.5,royal blue
+1561,Male,58,92247,H,0,6,14.1,prestige
+1562,Male,56,129914,A,1,3,27.6,royal blue
+1563,Female,0,94014,D,9,5,15.9,prestige
+1564,Female,56,138864,A,0,5,27.9,royal blue
+1565,Male,6,169299,H,1,5,13.8,prestige
+1566,Male,2,119097,B,0,7,12.0,prestige
+1567,Female,43,68161,E,1,2,6.9,star
+1568,Female,38,181108,I,1,1,9.6,star
+1569,Male,37,87764,D,9,7,17.7,prestige
+1570,Female,41,102543,A,7,3,16.2,prestige
+1571,Male,64,139417,A,1,3,3.9,star
+1572,Female,57,81802,I,9,1,8.7,star
+1573,Female,66,102788,A,0,1,15.3,prestige
+1574,Female,59,163179,B,1,7,5.7,star
+1575,Male,57,71318,B,1,3,6.6,star
+1576,Male,55,63683,B,3,1,10.2,prestige
+1577,Female,16,189689,B,8,5,11.1,prestige
+1578,Male,52,121610,A,0,5,10.8,prestige
+1579,Female,53,150682,A,1,1,7.5,star
+1580,Female,66,124550,H,0,3,13.8,prestige
+1581,Male,55,148875,A,0,4,29.7,royal blue
+1582,Male,6,107117,A,1,3,13.2,prestige
+1583,Male,33,109223,D,1,5,12.9,prestige
+1584,Female,0,120899,H,2,6,2.1,general
+1585,Female,27,101948,A,0,5,9.3,star
+1586,Male,42,143169,D,0,4,17.4,prestige
+1587,Female,13,167619,B,7,6,1.2,general
+1588,Female,19,181795,B,3,5,17.7,prestige
+1589,Female,48,186445,D,0,1,12.3,prestige
+1590,Female,58,102205,A,1,1,7.2,star
+1591,Female,21,52326,B,0,2,20.7,royal blue
+1592,Male,61,82992,C,1,5,1.5,general
+1593,Male,44,145520,I,1,7,16.5,prestige
+1594,Female,50,104820,A,2,4,28.8,royal blue
+1595,Female,28,69025,C,0,2,23.7,royal blue
+1596,Male,44,164976,C,0,4,26.7,royal blue
+1597,Female,49,178576,F,5,5,15.3,prestige
+1598,Female,42,72415,H,0,5,15.6,prestige
+1599,Male,50,112146,C,0,3,7.2,star
+1600,Male,8,144830,A,0,1,12.9,prestige
+1601,Female,24,51661,C,0,7,23.7,royal blue
+1602,Female,41,152910,A,1,6,27.0,royal blue
+1603,Male,1,114556,C,0,7,19.2,prestige
+1604,Male,0,143455,B,1,6,18.6,prestige
+1605,Male,30,173096,B,0,3,27.6,royal blue
+1606,Female,52,121172,B,5,4,29.1,royal blue
+1607,Female,34,56492,I,8,1,4.5,star
+1608,Male,64,156422,C,1,7,11.7,prestige
+1609,Male,17,131863,A,1,7,28.2,royal blue
+1610,Male,41,118096,G,0,3,10.8,prestige
+1611,Male,57,149685,F,9,6,9.0,star
+1612,Female,68,89765,A,0,7,8.4,star
+1613,Female,14,177701,C,0,6,14.7,prestige
+1614,Male,24,64738,A,0,6,20.1,royal blue
+1615,Female,10,92734,G,1,4,8.4,star
+1616,Female,53,146877,B,4,3,14.1,prestige
+1617,Female,39,62935,A,0,7,18.0,prestige
+1618,Female,16,67178,C,8,3,5.1,star
+1619,Female,64,115754,D,1,3,10.5,prestige
+1620,Female,41,186470,A,0,7,6.3,star
+1621,Male,16,100939,B,7,6,10.2,prestige
+1622,Female,64,86172,A,4,4,16.5,prestige
+1623,Female,40,184222,B,0,2,5.1,star
+1624,Male,51,71543,C,1,4,0.3,general
+1625,Female,18,174836,B,0,4,18.9,prestige
+1626,Female,48,130706,,3,6,21.6,royal blue
+1627,Male,8,74407,E,0,6,30.0,royal blue
+1628,Male,64,130055,B,2,1,13.8,prestige
+1629,Male,45,88707,B,0,5,24.3,royal blue
+1630,Male,69,162762,B,1,1,15.6,prestige
+1631,Male,59,154821,E,0,2,23.1,royal blue
+1632,Male,53,57248,G,5,5,19.8,prestige
+1633,Female,66,99902,D,10,2,16.2,prestige
+1634,Female,1,165711,A,1,2,15.0,prestige
+1635,Male,43,97455,,6,4,16.5,prestige
+1636,Female,34,93866,C,9,2,12.9,prestige
+1637,Female,1,141307,B,1,3,5.1,star
+1638,Male,43,172011,E,1,5,2.7,general
+1639,Male,60,68138,B,2,7,5.4,star
+1640,Female,32,123246,I,8,6,30.0,royal blue
+1641,Female,47,124194,E,1,7,9.6,star
+1642,Male,15,188696,I,8,3,26.1,royal blue
+1643,Female,48,91213,G,3,5,25.2,royal blue
+1644,Female,53,166650,B,1,3,29.7,royal blue
+1645,Male,2,52727,A,1,3,18.0,prestige
+1646,Male,45,126469,C,1,2,25.8,royal blue
+1647,Male,45,138775,F,0,7,5.1,star
+1648,Female,49,68901,E,7,7,21.0,royal blue
+1649,Female,41,118621,I,0,7,2.1,general
+1650,Male,34,109263,C,0,1,23.1,royal blue
+1651,Male,52,150012,B,3,6,24.9,royal blue
+1652,Male,37,133850,H,9,3,25.5,royal blue
+1653,Female,25,81640,C,1,6,28.5,royal blue
+1654,Female,52,133214,H,9,7,0.3,general
+1655,Female,23,186723,C,8,5,12.6,prestige
+1656,Female,66,92100,A,9,3,6.9,star
+1657,Male,5,64484,I,0,5,3.0,star
+1658,Female,47,69024,B,4,5,0.9,general
+1659,Male,51,171194,A,0,5,16.5,prestige
+1660,Female,4,183282,A,1,1,10.2,prestige
+1661,Female,8,100099,B,1,3,22.2,royal blue
+1662,Female,35,164435,G,1,3,7.8,star
+1663,Male,67,172407,E,9,3,18.0,prestige
+1664,Female,9,84781,F,1,3,4.2,star
+1665,Male,52,186130,G,3,7,18.3,prestige
+1666,Female,2,56782,A,9,5,3.0,star
+1667,Male,65,137206,A,0,4,1.2,general
+1668,Female,9,146950,E,6,5,27.6,royal blue
+1669,Female,69,174275,B,0,2,1.2,general
+1670,Male,66,97705,I,8,2,12.3,prestige
+1671,Male,62,188984,G,1,4,20.7,royal blue
+1672,Male,24,119238,A,1,3,16.5,prestige
+1673,Male,58,87923,C,0,5,5.7,star
+1674,Male,15,128573,F,1,1,29.1,royal blue
+1675,Female,13,132374,H,0,3,28.8,royal blue
+1676,Female,51,135164,A,9,3,22.5,royal blue
+1677,Male,9,165194,A,8,3,3.0,star
+1678,Male,0,126060,E,1,3,27.6,royal blue
+1679,Male,67,89366,B,9,3,16.5,prestige
+1680,Male,58,95172,B,1,5,23.1,royal blue
+1681,Female,55,95975,F,0,1,14.7,prestige
+1682,Female,52,165573,B,0,7,17.7,prestige
+1683,Male,53,180887,C,1,1,17.7,prestige
+1684,Female,53,142720,F,0,1,25.8,royal blue
+1685,Female,60,113460,G,1,7,16.2,prestige
+1686,Male,57,110434,A,7,3,6.0,star
+1687,Female,67,146016,A,1,6,11.4,prestige
+1688,Male,51,101073,F,0,7,20.1,royal blue
+1689,Female,36,62617,A,9,3,3.0,star
+1690,Female,51,96028,A,0,5,11.1,prestige
+1691,Female,31,186334,A,0,1,11.1,prestige
+1692,Female,57,163473,A,0,1,15.6,prestige
+1693,Male,53,89819,A,4,2,17.7,prestige
+1694,Female,51,69388,D,3,4,9.9,star
+1695,Female,15,134748,H,1,6,22.8,royal blue
+1696,Female,18,149915,E,14,1,28.2,royal blue
+1697,Female,58,104098,B,1,6,14.4,prestige
+1698,Male,40,80160,A,8,5,3.0,star
+1699,Male,9,124125,A,1,2,27.3,royal blue
+1700,Male,6,170226,G,0,3,9.3,star
+1701,Female,8,53306,D,0,2,29.4,royal blue
+1702,Male,55,103933,F,6,3,9.3,star
+1703,Female,69,85401,C,4,6,3.0,star
+1704,Female,18,53812,I,9,5,9.6,star
+1705,Female,13,60771,C,1,7,15.0,prestige
+1706,Female,69,56398,C,8,3,22.5,royal blue
+1707,Female,69,171118,D,9,3,27.3,royal blue
+1708,Male,69,79806,B,0,5,21.9,royal blue
+1709,Female,59,150187,B,0,5,10.5,prestige
+1710,Female,45,129455,G,0,3,4.2,star
+1711,Female,45,116813,C,10,6,21.6,royal blue
+1712,Female,54,95734,I,8,7,11.7,prestige
+1713,Male,33,76654,A,4,1,14.4,prestige
+1714,Male,67,86289,A,1,5,28.8,royal blue
+1715,Male,26,176147,B,0,1,5.7,star
+1716,Female,5,142351,C,0,7,29.1,royal blue
+1717,Male,65,186673,E,1,1,15.3,prestige
+1718,Female,64,131521,A,0,6,18.6,prestige
+1719,Female,65,50223,C,8,1,4.5,star
+1720,Female,48,74308,C,1,2,6.9,star
+1721,Female,41,155881,G,0,7,6.6,star
+1722,Female,62,168303,F,9,4,4.8,star
+1723,Male,44,182748,D,1,7,17.4,prestige
+1724,Female,35,52374,A,1,1,21.9,royal blue
+1725,Female,34,86154,E,1,2,5.1,star
+1726,Female,52,163612,F,0,5,15.3,prestige
+1727,Female,64,64756,H,10,1,5.1,star
+1728,Male,62,185257,A,1,4,17.4,prestige
+1729,Male,58,78669,A,1,7,22.5,royal blue
+1730,Male,15,164520,A,1,7,14.1,prestige
+1731,Female,65,92135,I,6,4,14.7,prestige
+1732,Male,20,103195,E,0,7,20.4,royal blue
+1733,Female,21,161663,F,1,7,10.8,prestige
+1734,Female,49,57039,A,2,6,10.2,prestige
+1735,Female,61,54754,A,0,2,1.2,general
+1736,Female,62,136531,D,1,4,22.8,royal blue
+1737,Male,62,120838,A,1,4,23.7,royal blue
+1738,Male,64,127927,E,0,4,14.4,prestige
+1739,Male,10,164214,G,0,4,23.1,royal blue
+1740,Female,53,145498,A,8,4,19.8,prestige
+1741,Male,7,129215,C,9,6,20.7,royal blue
+1742,Female,62,152429,C,0,2,22.8,royal blue
+1743,Female,12,89252,C,0,5,9.3,star
+1744,Female,31,147447,E,6,7,6.9,star
+1745,Female,63,74467,G,5,1,9.9,star
+1746,Female,66,127410,D,8,2,11.1,prestige
+1747,Male,49,91290,B,7,7,13.2,prestige
+1748,Female,64,92812,A,5,7,29.1,royal blue
+1749,Female,27,170166,A,10,4,5.4,star
+1750,Female,33,150823,A,4,1,22.5,royal blue
+1751,Male,49,95839,F,7,2,9.0,star
+1752,Female,14,60175,F,9,7,18.0,prestige
+1753,Female,22,153024,A,10,7,27.3,royal blue
+1754,Female,8,116858,A,5,7,20.1,royal blue
+1755,Female,6,122961,E,8,2,14.1,prestige
+1756,Male,51,141471,A,8,6,13.5,prestige
+1757,Male,69,76155,B,8,7,4.2,star
+1758,Male,0,108169,F,10,3,7.2,star
+1759,Female,61,139520,A,8,4,11.7,prestige
+1760,Male,62,182631,A,5,3,15.6,prestige
+1761,Female,65,177134,B,10,2,23.4,royal blue
+1762,Female,32,181703,G,6,2,16.2,prestige
+1763,Female,13,61917,A,7,2,4.8,star
+1764,Female,1,140648,F,9,7,10.8,prestige
+1765,Female,63,176783,E,9,4,12.0,prestige
+1766,Male,45,59741,A,10,5,20.1,royal blue
+1767,Female,43,156567,D,7,6,26.7,royal blue
+1768,Female,29,110309,A,6,2,6.3,star
+1769,Female,52,111077,A,9,7,16.5,prestige
+1770,Female,57,170333,C,4,2,28.8,royal blue
+1771,Male,66,183339,A,7,4,11.7,prestige
+1772,Female,69,84167,A,10,7,13.8,prestige
+1773,Female,54,184815,G,6,3,15.0,prestige
+1774,Female,49,122556,A,9,7,22.2,royal blue
+1775,Female,60,174768,C,9,2,19.8,prestige
+1776,Male,45,172309,F,4,1,24.6,royal blue
+1777,Male,47,117920,E,10,4,1.2,general
+1778,Male,34,134882,A,10,3,18.3,prestige
+1779,Female,63,77259,G,6,6,3.3,star
+1780,Male,38,170019,A,7,2,11.4,prestige
+1781,Female,68,176884,D,10,2,28.2,royal blue
+1782,Female,50,106709,H,10,2,27.9,royal blue
+1783,Female,8,168723,I,7,2,9.3,star
+1784,Female,56,90228,D,7,5,20.4,royal blue
+1785,Female,1,89473,G,10,4,25.5,royal blue
+1786,Male,56,131911,B,7,7,12.6,prestige
+1787,Female,14,140107,H,6,6,18.9,prestige
+1788,Female,4,170403,A,4,5,13.2,prestige
+1789,Female,58,51416,,7,5,13.8,prestige
+1790,Female,6,52648,A,5,2,0.6,general
+1791,Male,17,125471,D,7,1,14.4,prestige
+1792,Female,55,106153,A,10,1,18.6,prestige
+1793,Male,14,124785,G,7,2,8.4,star
+1794,Female,22,101474,I,10,2,4.2,star
+1795,Female,8,141359,B,4,5,19.5,prestige
+1796,Female,40,57596,A,4,1,28.8,royal blue
+1797,Female,67,78489,A,7,5,24.3,royal blue
+1798,Male,50,112957,F,5,3,21.3,royal blue
+1799,Male,42,82377,D,9,2,11.1,prestige
+1800,Male,46,82315,D,6,1,15.9,prestige
+1801,Male,50,93253,A,4,5,15.3,prestige
+1802,Male,20,189650,G,8,4,18.0,prestige
+1803,Female,59,114858,A,10,1,15.9,prestige
+1804,Female,18,62151,A,8,2,5.4,star
+1805,Female,45,135159,D,7,6,3.6,star
+1806,Female,5,126263,H,6,3,16.5,prestige
+1807,Female,49,123064,A,10,4,12.3,prestige
+1808,Female,31,181773,B,8,1,12.0,prestige
+1809,Male,62,171794,A,6,5,19.5,prestige
+1810,Female,15,156339,I,6,2,8.1,star
+1811,Male,64,65483,H,10,7,25.2,royal blue
+1812,Female,35,145654,F,6,3,6.6,star
+1813,Female,68,91609,C,8,1,12.9,prestige
+1814,Female,29,53002,G,5,5,21.9,royal blue
+1815,Male,57,115699,B,9,1,18.3,prestige
+1816,Male,33,149609,F,9,2,13.2,prestige
+1817,Female,29,165254,F,9,7,2.1,general
+1818,Male,43,50418,B,5,1,14.7,prestige
+1819,Male,43,103531,A,10,5,27.0,royal blue
+1820,Female,66,184060,A,10,5,29.4,royal blue
+1821,Male,23,75961,F,5,7,21.0,royal blue
+1822,Male,57,174163,A,4,2,8.4,star
+1823,Female,51,105255,F,8,3,16.2,prestige
+1824,Male,42,51860,G,4,5,1.2,general
+1825,Female,32,185218,B,4,6,24.9,royal blue
+1826,Male,7,189709,A,6,6,5.4,star
+1827,Female,61,134665,A,7,2,19.8,prestige
+1828,Male,65,91352,E,7,3,2.7,general
+1829,Female,10,154623,A,6,6,6.3,star
+1830,Female,20,113767,A,6,2,26.4,royal blue
+1831,Male,5,160469,G,8,1,18.3,prestige
+1832,Female,54,99418,A,4,2,8.1,star
+1833,Male,54,56215,B,10,4,10.2,prestige
+1834,Male,12,55639,B,8,1,18.9,prestige
+1835,Female,60,62504,A,10,4,29.7,royal blue
+1836,Female,19,151382,G,1,1,11.4,prestige
+1837,Female,61,156574,H,0,7,28.8,royal blue
+1838,Female,60,60998,C,1,7,10.5,prestige
+1839,Female,60,108509,E,0,2,10.8,prestige
+1840,Female,68,85540,I,9,1,14.7,prestige
+1841,Female,43,73915,A,11,2,14.1,prestige
+1842,Male,52,148901,B,4,4,23.1,royal blue
+1843,Male,51,152602,C,0,1,27.3,royal blue
+1844,Female,54,58999,C,7,3,6.6,star
+1845,Female,43,133740,A,5,4,11.1,prestige
+1846,Female,20,113217,G,9,1,12.3,prestige
+1847,Female,41,60209,A,1,3,13.8,prestige
+1848,Female,26,145491,C,9,5,21.6,royal blue
+1849,Female,45,61393,E,7,5,19.5,prestige
+1850,Female,52,133252,A,1,1,16.5,prestige
+1851,Female,40,187234,E,0,5,4.2,star
+1852,Male,5,145563,C,9,6,18.0,prestige
+1853,Female,46,165810,B,3,5,11.4,prestige
+1854,Male,68,125181,A,0,7,9.0,star
+1855,Female,54,56809,B,1,2,28.8,royal blue
+1856,Male,35,69419,B,9,1,20.4,royal blue
+1857,Female,48,70689,A,1,4,16.2,prestige
+1858,Male,64,55011,A,1,7,15.9,prestige
+1859,Female,68,87955,D,0,2,23.7,royal blue
+1860,Male,66,153660,B,0,5,7.2,star
+1861,Male,32,104494,B,6,4,8.4,star
+1862,Male,22,184443,F,3,7,13.2,prestige
+1863,Female,17,150778,C,1,7,10.5,prestige
+1864,Female,22,88729,D,1,1,24.3,royal blue
+1865,Male,9,151902,A,0,2,5.4,star
+1866,Male,24,51604,A,0,2,1.2,general
+1867,Female,8,157316,A,9,3,22.5,royal blue
+1868,Female,52,125508,A,1,6,4.5,star
+1869,Male,62,186157,B,1,1,16.2,prestige
+1870,Female,37,169381,C,0,4,13.5,prestige
+1871,Male,68,110195,I,9,2,14.1,prestige
+1872,Female,63,81199,C,1,2,24.0,royal blue
+1873,Female,15,58459,F,0,6,20.1,royal blue
+1874,Female,44,173682,A,12,6,26.7,royal blue
+1875,Male,18,162983,C,0,6,4.8,star
+1876,Male,30,94480,F,0,4,0.3,general
+1877,Female,69,168710,E,1,4,24.0,royal blue
+1878,Male,16,150193,D,2,2,24.9,royal blue
+1879,Female,41,91823,A,1,4,22.2,royal blue
+1880,Female,24,173091,C,6,2,7.2,star
+1881,Male,57,102692,B,0,2,28.2,royal blue
+1882,Male,67,156812,B,0,6,23.1,royal blue
+1883,Male,68,51468,A,0,3,14.4,prestige
+1884,Female,11,114071,B,0,2,11.1,prestige
+1885,Female,63,155638,,1,4,24.3,royal blue
+1886,Male,68,129971,A,8,3,18.3,prestige
+1887,Female,69,104160,D,4,4,23.1,royal blue
+1888,Female,47,124995,B,0,1,19.8,prestige
+1889,Female,43,180437,C,1,5,15.0,prestige
+1890,Female,19,134644,F,1,2,28.8,royal blue
+1891,Female,1,130089,A,0,5,20.1,royal blue
+1892,Male,41,149318,A,4,1,8.1,star
+1893,Male,6,125591,B,8,6,23.7,royal blue
+1894,Female,68,173047,B,0,3,5.1,star
+1895,Female,39,61298,A,0,5,27.3,royal blue
+1896,Male,45,132993,C,8,2,16.5,prestige
+1897,Female,65,72313,G,1,5,10.8,prestige
+1898,Female,30,84885,C,6,5,2.7,general
+1899,Male,46,126228,H,8,2,28.5,royal blue
+1900,Male,40,51199,F,7,7,8.7,star
+1901,Female,40,54631,A,0,6,21.0,royal blue
+1902,Female,20,131810,B,5,7,4.8,star
+1903,Male,58,138482,H,8,4,17.7,prestige
+1904,Male,55,74081,B,4,3,26.1,royal blue
+1905,Male,64,112426,D,9,6,16.2,prestige
+1906,Female,52,164038,,5,4,15.9,prestige
+1907,Female,68,53552,H,7,6,29.1,royal blue
+1908,Male,15,142147,A,8,4,23.4,royal blue
+1909,Male,4,180324,A,9,2,12.3,prestige
+1910,Male,59,149067,E,9,7,23.4,royal blue
+1911,Male,32,184408,C,6,7,11.4,prestige
+1912,Female,8,59116,A,10,6,13.5,prestige
+1913,Female,62,174786,F,4,3,28.2,royal blue
+1914,Male,9,71076,A,8,1,0.6,general
+1915,Female,41,56837,B,8,4,1.2,general
+1916,Female,18,134752,D,6,5,14.1,prestige
+1917,Female,48,112887,C,9,6,24.0,royal blue
+1918,Female,0,73128,A,7,5,22.2,royal blue
+1919,Female,11,152765,B,8,1,5.1,star
+1920,Female,36,140637,F,8,7,5.7,star
+1921,Male,46,137973,B,7,7,15.0,prestige
+1922,Female,65,126791,A,6,4,10.2,prestige
+1923,Female,67,75125,F,8,3,26.7,royal blue
+1924,Male,2,101718,F,8,3,3.3,star
+1925,Female,64,69654,I,4,4,9.0,star
+1926,Female,0,105935,E,4,5,13.8,prestige
+1927,Male,3,74607,B,6,1,20.7,royal blue
+1928,Male,47,151985,B,4,7,8.7,star
+1929,Male,40,76892,F,5,2,19.2,prestige
+1930,Male,58,87602,F,5,3,7.5,star
+1931,Male,42,182317,B,8,6,13.8,prestige
+1932,Male,60,158280,F,6,7,27.6,royal blue
+1933,Female,23,59905,,7,5,23.7,royal blue
+1934,Female,57,128153,A,7,6,12.6,prestige
+1935,Male,64,142612,E,4,6,17.4,prestige
+1936,Female,15,180163,E,10,7,2.7,general
+1937,Female,14,68009,A,9,3,5.1,star
+1938,Male,54,166183,A,7,6,19.5,prestige
+1939,Male,46,132537,E,5,3,13.2,prestige
+1940,Female,46,146308,A,5,1,14.7,prestige
+1941,Female,52,63454,A,5,5,11.4,prestige
+1942,Male,66,110519,A,9,4,1.8,general
+1943,Female,55,66728,B,10,5,15.0,prestige
+1944,Female,54,170638,A,4,5,19.2,prestige
+1945,Male,19,129635,A,6,4,30.0,royal blue
+1946,Male,29,133587,H,5,3,22.2,royal blue
+1947,Male,66,126225,D,7,4,14.1,prestige
+1948,Female,20,148776,A,8,5,6.3,star
+1949,Female,61,142602,G,7,6,19.2,prestige
+1950,Male,37,102413,B,5,5,11.4,prestige
+1951,Male,42,68765,C,4,1,20.7,royal blue
+1952,Male,1,57522,A,10,5,22.5,royal blue
+1953,Female,58,149237,C,8,6,24.0,royal blue
+1954,Female,42,184844,C,6,1,7.2,star
+1955,Female,48,131656,G,9,6,13.5,prestige
+1956,Female,11,181026,H,6,2,11.7,prestige
+1957,Male,59,101698,A,9,3,26.1,royal blue
+1958,Female,45,152560,C,9,2,9.6,star
+1959,Male,43,142502,E,5,1,29.1,royal blue
+1960,Female,55,155432,D,4,6,6.3,star
+1961,Female,40,108544,C,4,5,14.7,prestige
+1962,Female,52,106530,D,7,2,13.8,prestige
+1963,Male,40,124359,I,7,7,15.3,prestige
+1964,Female,58,146970,A,7,6,27.0,royal blue
+1965,Male,61,182176,A,9,5,28.8,royal blue
+1966,Female,46,114435,A,8,3,10.2,prestige
+1967,Male,65,134213,I,8,4,9.6,star
+1968,Female,54,115580,C,8,5,21.9,royal blue
+1969,Female,46,124034,F,10,2,26.4,royal blue
+1970,Male,31,67894,E,9,1,12.6,prestige
+1971,Male,55,107099,F,4,6,26.7,royal blue
+1972,Male,45,140263,C,10,5,26.4,royal blue
+1973,Male,68,104249,D,5,2,3.6,star
+1974,Male,40,168821,F,4,5,10.8,prestige
+1975,Female,14,153145,B,8,6,17.7,prestige
+1976,Female,41,128960,F,9,4,12.9,prestige
+1977,Male,60,127438,D,7,2,24.6,royal blue
+1978,Male,60,125968,G,8,2,30.0,royal blue
+1979,Male,54,104589,A,10,2,25.5,royal blue
+1980,Male,0,165321,E,8,1,27.9,royal blue
+1981,Female,10,86925,A,7,2,22.8,royal blue
+1982,Female,62,149797,A,5,6,5.7,star
+1983,Male,33,137094,G,4,1,20.4,royal blue
+1984,Female,52,55395,H,10,1,12.3,prestige
+1985,Female,2,153622,G,6,6,15.3,prestige
+1986,Male,27,74050,C,8,1,13.2,prestige
+1987,Female,4,68094,E,4,7,18.3,prestige
+1988,Male,63,59244,A,7,1,24.0,royal blue
+1989,Female,54,118944,A,4,4,23.1,royal blue
+1990,Female,47,75293,E,6,7,16.5,prestige
+1991,Female,30,166983,A,7,3,20.7,royal blue
+1992,Female,67,129444,C,5,6,28.8,royal blue
+1993,Male,64,181183,H,9,3,7.2,star
+1994,Female,64,175254,A,9,5,30.0,royal blue
+1995,Female,19,54121,D,6,3,26.7,royal blue
+1996,Female,41,184387,A,8,7,12.0,prestige
+1997,Female,61,73158,E,7,7,9.6,star
+1998,Male,57,90961,B,9,2,4.2,star
+1999,Male,47,182109,F,7,2,1.2,general
+2000,Male,60,110610,C,5,2,15.6,prestige
